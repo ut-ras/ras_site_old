@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<!-- saved from url=(0057)http://foundation.zurb.com/page-templates4/orbithome.html -->
+<html class=" js no-touch svg inlinesvg svgclippaths no-ie8compat" lang="en" style=""><!--<![endif]--><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta charset="utf-8">
+
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width">
+
+  <title>Support</title>
+
+  <link rel="stylesheet" href="foundation/normalize.css">
+  <link rel="stylesheet" href="foundation/foundation.css">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
+
+  <script src="foundation/custom.modernizr.js"></script>
+
+  <link rel="stylesheet" type="text/css" href="collagePlus/examples.css" media="all">
+  <link rel="stylesheet" type="text/css" href="collagePlus/transitions.css" media="all"> <!--[if lt IE 9]>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <![endif]-->
+    <!--[if (gte IE 9) | (!IE)]><!-->
+    <script src="collagePlus/jquery.min.js"></script>
+    <!--<![endif]-->
+
+    <!--[if IE]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <script src="collagePlus/jquery.collagePlus.min.js"></script>
+    <script src="collagePlus/jquery.removeWhitespace.min.js"></script>
+    <script src="collagePlus/jquery.collageCaption.min.js"></script>
+  
+    <script type="text/javascript">
+
+    // All images need to be loaded for this plugin to work so
+    // we end up waiting for the whole window to load in this example
+    $(window).load(function () {
+        $(document).ready(function(){
+            collage();
+            $('.Collage').collageCaption();
+        });
+    });
+
+
+    // Here we apply the actual CollagePlus plugin
+    function collage() {
+        $('.Collage').removeWhitespace().collagePlus(
+            {
+                'fadeSpeed'     : 2000,
+                'targetHeight'  : 200
+            }
+        );
+    };
+
+    // This is just for the case that the browser window is resized
+    var resizeTimer = null;
+    $(window).bind('resize', function() {
+        // hide all the images until we resize them
+        $('.Collage .Image_Wrapper').css("opacity", 0);
+        // set a timer to re-apply the plugin
+        if (resizeTimer) clearTimeout(resizeTimer);
+        resizeTimer = setTimeout(collage, 200);
+    });
+
+    </script>
+
+</head>
+<body>
+
+  <div class="row">
+    <div class="large-3 columns">
+      <h1><a href="index.htm"><img src="foundation/logo1.png"></a></h1>
+    </div>
+    <div class="large-9 columns">
+      <ul class="right button-group">
+        <li ><a href="index.html" class="button">Home</a></li>
+        <li><a href="about.html" class="button">About</a></li>
+        <li><a href="" class="button">Media</a></li>
+        <li><a href="" class="button">Projects</a></li>
+        <li class="active"><a class="button">Support</a></li>
+      </ul>
+  </div>
+ 
+  </div>
+
+  <div class="large-12 columns">
+   <h1 style="text-align:center;"> Supporters - Thank You! </h1>
+</div>
+<section class="Collage effect-parent">
+    
+    <div class="Image_Wrapper" >
+        <a href="http://www.ieee.org/index.html"><img src="images/support/ieee.png" style="width: 1114px; height: 355px;"></a>
+    </div>
+    
+    <div class="Image_Wrapper" >
+        <a href="http://www.pololu.com/"><img src="images/support/gopro.png" style="width: 999px; height: 281px;"></a>
+    </div>
+
+    <div class="Image_Wrapper">
+        <a href="http://www.intel.com/content/www/us/en/homepage.html"><img src="images/support/intel.png" style="width: 329px; height: 217px;"></a>
+    </div>
+    <div class="Image_Wrapper" >
+        <a href="http://www.ti.com/"><img src="images/support/texas-instruments.png" style="width: 425px; height: 397px;"></a>
+    </div>
+    <div class="Image_Wrapper" >
+        <a href="https://www.sparkfun.com/"><img src="images/support/sparkfun.png" style="width: 3297px; height: 969px;"></a>
+    </div>
+    
+       
+    <div class="Image_Wrapper" >
+        <a href="http://www.digi.com/"><img src="images/support/digi.png" style="width: 236px; height: 214px;"></a>
+    </div>
+    <div class="Image_Wrapper" >
+        <a href="http://www.nvidia.com/content/global/global.php"><img src="images/support/nvidia.png" style="width: 267px; height: 204px;"></a>
+    </div>
+    <div class="Image_Wrapper" >
+        <a href="http://www.mouser.com/"><img src="images/support/mouser.png" style="width: 864px; height: 393px;"></a>
+    </div> 
+    <div class="Image_Wrapper" >
+        <a href="http://ams.com/eng"><img src="images/support/ams.png" style="width: 788px; height: 213px;"></a>
+    </div>
+    <div class="Image_Wrapper" >
+        <a href="http://www.pololu.com/"><img src="images/support/pololu.png" style="width: 526px; height: 188px;"></a>
+    </div>
+    <div class="Image_Wrapper" >
+        <a href="http://www.4pcb.com/"><img src="images/support/advcir.png" style="width: 314px; height: 99px;"></a>
+    </div>
+      <div class="Image_Wrapper" >
+        <a href="http://www.zotacusa.com/"><img src="images/support/zotac.png" style="width: 852px; height: 302px;"></a>
+    </div>
+
+    <div class="Image_Wrapper" >
+        <a href="http://www.vectornav.com/"><img src="images/support/vectornav.png" style="width: 1024px; height: 178px;"></a>
+    </div>
+    <div class="Image_Wrapper" >
+        <a href="https://www.inventables.com/"><img src="images/support/inventables.png" style="width: 540px; height: 108px;"></a>
+    </div>
+  <div class="Image_Wrapper" >
+        <a><img src="images/support/ut-coop.png" style="width: 2550px; height: 326px;"></a>
+    </div>
+
+
+   
+</section>
+
+  <!-- Footer -->
+  
+  <footer class="row">
+    <div class="large-12 columns">
+      <hr>
+      <div class="row">
+        <div class="large-6 columns">
+          <p>Texas Robotics and Automation Society</p>
+        </div>
+        <div class="large-6 columns">
+          <ul class="inline-list right">
+            <li><a href="http://utexasras.wordpress.com/">Blog</a></li>
+            <li><a href="">Twitter</a></li>
+            <li><a href="calendar.html">Calendar </a></li>
+            <li><a href="">YouTube</a></li>
+            <li><a href="">Flickr</a></li>
+          </ul>
+        </div>
+      </div>
+    </div> 
+  </footer>
+
+  <script>
+  document.write('<script src=js/vendor/' +
+  ('__proto__' in {} ? 'zepto' : 'jquery') +
+  '.js><\/script>')
+  </script><script src="foundation/zepto.js"></script>
+
+
+  <script src="foundation/foundation.min.js"></script>
+  <script>
+    $(document).foundation();
+  </script>
+  <!-- End Footer -->
+
+
+</body></html>
