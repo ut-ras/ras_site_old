@@ -74,3 +74,10 @@ li a img { display: inline;}
 	font-weight:bold;
 	color:#cc5500;
 }
+
+.orbit-slides-container img {width:100%;}
+
+.bodyLink {
+    color:#c50;
+    /*text-decoration: underline;*/
+}
