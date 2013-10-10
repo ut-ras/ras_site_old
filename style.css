@@ -81,3 +81,10 @@ li a img { display: inline;}
     color:#c50;
     /*text-decoration: underline;*/
 }
+
+html, body, a, span, p, {font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;}
+
+h1, h2, h3, h4, h5, h6 {
+   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: lighter;
+}
