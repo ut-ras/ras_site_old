@@ -1,0 +1,12 @@
+.container { margin-right: auto; margin-left: auto; *zoom: 1;} 
+
+#content a{
+	color: #CF5300;
+}
+
+#content a:hover{
+	color: #000000;
+	text-decoration: none;
+}
+
+.slider-wrapper { width: 80%;}
