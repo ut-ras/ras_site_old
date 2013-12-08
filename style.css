@@ -1,5 +1,5 @@
 html,body {
-	background-color: #f0f0f0;
+	background-color: #fbfbfb;
 }
 
 .button, button {
@@ -83,8 +83,8 @@ li a img { display: inline;}
 }
 
 h1, h2, h3, h4, h5, h6 {
-  
     font-weight: lighter;
+    color:#333;
 }
 
 body, a, p, h1, h2, h3, h4, h5, h6, span {
