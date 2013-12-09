@@ -1,5 +1,5 @@
 html,body {
-	background-color: #f0f0f0;
+	background-color: #fbfbfb;
 }
 
 .button, button {
@@ -82,9 +82,15 @@ li a img { display: inline;}
     /*text-decoration: underline;*/
 }
 
-html, body, a, span, p, {font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;}
-
 h1, h2, h3, h4, h5, h6 {
-   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: lighter;
+    color:#333;
+}
+
+body, a, p, h1, h2, h3, h4, h5, h6, span {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.logo {
+    margin-top:0;
 }

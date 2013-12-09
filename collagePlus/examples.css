@@ -6,7 +6,6 @@ and borders on the images
 html body{
     margin:0;
     padding:0;
-    background-color:rgb(230, 230, 230);
     font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
@@ -76,9 +75,7 @@ a.return:hover{
     display:inline-block;
     vertical-align:bottom;
     opacity:1;
-
-    /*This is where you set the border you want for the image*/
-    border:5px solid #ccc;
+    border:5px solid #eee;
 }
 
 
