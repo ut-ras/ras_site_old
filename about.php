@@ -173,6 +173,7 @@
             else {
               $subject="UT RAS Contact Message";         
               $from="From: $name<$email>\r\nReturn-path: $email";
+              // mail("ras_president@utlists.utexas.edu", $subject, $message, $from); 
               mail("ras_president@utlists.utexas.edu", $subject, $message, $from); 
               echo "<h2>Email sent!</h2>"; 
             } 
