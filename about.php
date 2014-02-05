@@ -129,8 +129,6 @@
       
       <h2>Contact</h2>
       <p>We'd love to hear from you. You can either reach out to us as an organization, or if you have a specific question reach out to one of our leaders. We will get back to you as soon as possible.</p>
-
-      hi hi
       <div class="section-container auto" data-section>
         <section class="section">
           <h5 class="title"><a href="#panel1">Contact Us</a></h5>
@@ -186,16 +184,17 @@
           <h5 class="title"><a href="#panel2">Specific Person</a></h5>
           <div class="content" data-slug="panel2">
             <ul class="large-block-grid-5 small-block-grid-3 contact"> 
-              <li><a class="contactName" href="mailto:"><span class="text"> Rachel Smith </span><img src="images/leaders/rachel.png">President</a></li>
-              <li><a class="contactName" href="mailto:"><span class="text"> Josh Eversmann </span><img src="images/leaders/josh.png">Vice President</a></li>
-              <li><a class="contactName" href="mailto:"><span class="text"> Nita Soni </span><img src="images/leaders/nita.png">Treasurer</a></li>
-              <li><a class="contactName" href="mailto:"><span class="text"> Kevin Gilbert </span><img src="images/leaders/kevin.png">Secretary</a></li>
-              <li><a class="contactName" href="mailto:"><span class="text"> Emily Ledbetter </span><img src="images/leaders/emily.png">Corporate Relations</a></li>
-              <li><a class="contactName" href="mailto:"><span class="text"> Michelle Chou </span><img src="images/leaders/michelle.png">Events Coordinator</a></li>
-              <li><a class="contactName" href="mailto:"><span class="text"> Gilbert Rodriguez </span><img src="images/leaders/gilbert.png">Outreach Coordinator</a></li>
-              <li><a class="contactName" href="mailto:"><span class="text"> Cheng Li </span><img src="images/leaders/cheng.png">Historian</a></li>
-              <li><a class="contactName" href="mailto:"><span class="text"> Yves Courtois </span><img src="images/leaders/yves.png">Webmaster</a></li>
-              <li><a class="contactName" href="mailto:"><span class="text"> Kristen Palughi</span><img src="images/leaders/kristen.png">SEC Representative</a></li>
+              <!-- REPLACE THE STOCK CAT PHOTOS WITH PHOTOS FOUND IN /images/leaders/ -->
+              <li><a class="contactName" href="mailto:"><span class="text"> FIRST LAST</span><img src="http://placekitten.com/g/130/160">President</a></li>
+              <li><a class="contactName" href="mailto:"><span class="text"> FIRST LAST</span><img src="http://placekitten.com/g/130/160">Vice President</a></li>
+              <li><a class="contactName" href="mailto:"><span class="text"> FIRST LAST</span><img src="http://placekitten.com/g/130/160">Treasurer</a></li>
+              <li><a class="contactName" href="mailto:"><span class="text"> FIRST LAST</span><img src="http://placekitten.com/g/130/160">Secretary</a></li>
+              <li><a class="contactName" href="mailto:"><span class="text"> FIRST LAST</span><img src="http://placekitten.com/g/130/160">Corporate Relations</a></li>
+              <li><a class="contactName" href="mailto:"><span class="text"> FIRST LAST</span><img src="http://placekitten.com/g/130/160">Events Coordinator</a></li>
+              <li><a class="contactName" href="mailto:"><span class="text"> FIRST LAST</span><img src="http://placekitten.com/g/130/160">Outreach Coordinator</a></li>
+              <li><a class="contactName" href="mailto:"><span class="text"> FIRST LAST</span><img src="http://placekitten.com/g/130/160">Historian</a></li>
+              <li><a class="contactName" href="mailto:"><span class="text"> FIRST LAST</span><img src="http://placekitten.com/g/130/160">Webmaster</a></li>
+              <li><a class="contactName" href="mailto:"><span class="text"> FIRST LAST</span><img src="http://placekitten.com/g/130/160">SEC Representative</a></li>
       
             </ul>
           </div>
@@ -247,6 +246,7 @@
         </div>
         <div class="large-6 columns">
           <ul class="inline-list right">
+            <li><a href="https://www.facebook.com/groups/ut.ieee.ras/">Facebook</a></li>
             <li><a href="http://utexasras.wordpress.com/">Blog</a></li>
             <li><a href="https://twitter.com/UT_RAS">Twitter</a></li>
             <li><a href="calendar.html">Calendar </a></li>
