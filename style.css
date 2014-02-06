@@ -94,3 +94,13 @@ body, a, p, h1, h2, h3, h4, h5, h6, span {
 .logo {
     margin-top:5px;
 }
+
+.Collage img {
+     filter: gray; 
+    -webkit-filter: grayscale(100%);
+}
+
+.Collage img:hover {
+     filter: none; 
+    -webkit-filter: grayscale(0%);
+}
