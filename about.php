@@ -128,8 +128,6 @@
     <div class="large-9 columns" id="contact">
       
       <h2>Contact</h2>
-      <h2 style="color:red;">This Form is currently under construction.</h2>
-      <h2>Please send any questions/concerns to <a href="mailto:ras_president@utlists.utexas.edu">ras_president@utlists.utexas.edu</a></h2>
       <p>We'd love to hear from you. You can either reach out to us as an organization, or if you have a specific question reach out to one of our leaders. We will get back to you as soon as possible.</p>
       <div class="section-container auto" data-section>
         <section class="section">
@@ -187,16 +185,17 @@
           <h5 class="title"><a href="#panel2">Specific Person</a></h5>
           <div class="content" data-slug="panel2">
             <ul class="large-block-grid-5 small-block-grid-3 contact"> 
-              <li><a class="contactName" href="mailto:"><span class="text"> Robby Nevels </span><img src="images/leaders/longhorn.png">President</a></li>
-              <li><a class="contactName" href="mailto:"><span class="text"> Michelle Chou </span><img src="images/leaders/michelle.png">Vice President</a></li>
-              <li><a class="contactName" href="mailto:"><span class="text"> Nita Soni </span><img src="images/leaders/nita.png">Treasurer</a></li>
-              <li><a class="contactName" href="mailto:"><span class="text"> Kristopher Novak </span><img src="images/leaders/longhorn.png">Secretary</a></li>
-              <li><a class="contactName" href="mailto:"><span class="text"> Emily Ledbetter </span><img src="images/leaders/emily.png">Corporate Relations</a></li>
-              <li><a class="contactName" href="mailto:"><span class="text"> Kristen Palughi </span><img src="images/leaders/kristen.png">Events Coordinator</a></li>
-              <li><a class="contactName" href="mailto:"><span class="text"> Gilbert Rodriguez </span><img src="images/leaders/gilbert.png">Outreach Coordinator</a></li>
-              <li><a class="contactName" href="mailto:"><span class="text"> Margret Tumbokon </span><img src="images/leaders/longhorn.png">Historian</a></li>
-              <li><a class="contactName" href="mailto:"><span class="text"> Siddharth Desai </span><img src="images/leaders/longhorn.png">Webmaster</a></li>
-              <!--<li><a class="contactName" href="mailto:"><span class="text"> Kristen Palughi</span><img src="images/leaders/kristen.png">SEC Representative</a></li>-->
+              <!-- REPLACE THE STOCK CAT PHOTOS WITH PHOTOS FOUND IN /images/leaders/ -->
+              <li><a class="contactName" href="mailto:"><span class="text"> FIRST LAST</span><img src="http://placekitten.com/g/130/160">President</a></li>
+              <li><a class="contactName" href="mailto:"><span class="text"> FIRST LAST</span><img src="http://placekitten.com/g/130/160">Vice President</a></li>
+              <li><a class="contactName" href="mailto:"><span class="text"> FIRST LAST</span><img src="http://placekitten.com/g/130/160">Treasurer</a></li>
+              <li><a class="contactName" href="mailto:"><span class="text"> FIRST LAST</span><img src="http://placekitten.com/g/130/160">Secretary</a></li>
+              <li><a class="contactName" href="mailto:"><span class="text"> FIRST LAST</span><img src="http://placekitten.com/g/130/160">Corporate Relations</a></li>
+              <li><a class="contactName" href="mailto:"><span class="text"> FIRST LAST</span><img src="http://placekitten.com/g/130/160">Events Coordinator</a></li>
+              <li><a class="contactName" href="mailto:"><span class="text"> FIRST LAST</span><img src="http://placekitten.com/g/130/160">Outreach Coordinator</a></li>
+              <li><a class="contactName" href="mailto:"><span class="text"> FIRST LAST</span><img src="http://placekitten.com/g/130/160">Historian</a></li>
+              <li><a class="contactName" href="mailto:"><span class="text"> FIRST LAST</span><img src="http://placekitten.com/g/130/160">Webmaster</a></li>
+              <li><a class="contactName" href="mailto:"><span class="text"> FIRST LAST</span><img src="http://placekitten.com/g/130/160">SEC Representative</a></li>
       
             </ul>
           </div>
