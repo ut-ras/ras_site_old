@@ -32,6 +32,7 @@
         <li><a href="media.html" class="button">Media</a></li>
         <!-- <li><a href="" class="button">Projects</a></li> -->
         <li><a href="support.html" class="button">Support</a></li>
+      	<li><a href="contact.html" class="button">Contact</a></li>
       </ul>
   </div>
   </div>
@@ -122,119 +123,17 @@
         </ul>
     </div>
   </div>
+  
+  <!-- constitution and bylaws -->
   <div class="row" >
-    <hr>
-    <!-- Contact Details -->
-    <div class="large-9 columns" id="contact">
-      
-      <h2>Contact</h2>
-      <h2 style="color:red;">This Form is currently under construction.</h2>
-      <h2>Please send any questions/concerns to <a href="mailto:ras_president@utlists.utexas.edu">ras_president@utlists.utexas.edu</a></h2>
-      <p>We'd love to hear from you. You can either reach out to us as an organization, or if you have a specific question reach out to one of our leaders. We will get back to you as soon as possible.</p>
-      <div class="section-container auto" data-section>
-        <section class="section">
-          <h5 class="title"><a href="#panel1">Contact Us</a></h5>
-          <div class="content" data-slug="panel1">
-            <?php 
-            $action=$_REQUEST['action']; 
-          if ($action=="")  { 
-            ?> 
-            <form action="" method="POST" enctype="multipart/form-data">
-              <input type="hidden" name="action" value="submit">
-              <div class="row collapse">
-                <div class="large-2 columns">
-                  <label class="inline">Your Name</label>
-                </div>
-                <div class="large-10 columns">
-                  <input type="text" id="name" name="name" placeholder="Your Name">
-                </div>
-              </div>
-              <div class="row collapse">
-                <div class="large-2 columns">
-                  <label class="inline"> Your Email</label>
-                </div>
-                <div class="large-10 columns">
-                  <input type="text" id="email" name="email" placeholder="your@email.com">
-                </div>
-              </div>
-              <label>What's up?</label>
-              <textarea rows="4" id="message" name="message"></textarea>
-              <button type="submit" class="radius button">Submit</button>
-            </form>
-            <?php 
-          }  
-          else { 
-            $name=$_REQUEST['name']; 
-            $email=$_REQUEST['email']; 
-            $message=$_REQUEST['message'];
-            if (($name=="")||($email=="")||($message=="")) {
-              echo "<h2>All fields are required, please refresh and fill the form again.</h2>"; 
-            }
-            else {
-              $subject="UT RAS Contact Message";         
-              $from="From: $name<$email>\r\nReturn-path: $email";
-              mail("ras_president@utlists.utexas.edu", $subject, $message, $from); 
-              mail("rjnevels@gmail.com", $subject, $message, $from); 
-              // mail("courtois1337@gmail.com", $subject, $message, $from); 
-              echo "<h2>Email sent!</h2>"; 
-            } 
-          }   
-          ?> 
-            
-          </div>
-        </section>
-        <section class="section">
-          <h5 class="title"><a href="#panel2">Specific Person</a></h5>
-          <div class="content" data-slug="panel2">
-            <ul class="large-block-grid-5 small-block-grid-3 contact"> 
-              <li><a class="contactName" href="mailto:"><span class="text"> Robby Nevels </span><img src="images/leaders/longhorn.png">President</a></li>
-              <li><a class="contactName" href="mailto:"><span class="text"> Michelle Chou </span><img src="images/leaders/michelle.png">Vice President</a></li>
-              <li><a class="contactName" href="mailto:"><span class="text"> Nita Soni </span><img src="images/leaders/nita.png">Treasurer</a></li>
-              <li><a class="contactName" href="mailto:"><span class="text"> Kristopher Novak </span><img src="images/leaders/longhorn.png">Secretary</a></li>
-              <li><a class="contactName" href="mailto:"><span class="text"> Emily Ledbetter </span><img src="images/leaders/emily.png">Corporate Relations</a></li>
-              <li><a class="contactName" href="mailto:"><span class="text"> Kristen Palughi </span><img src="images/leaders/kristen.png">Events Coordinator</a></li>
-              <li><a class="contactName" href="mailto:"><span class="text"> Gilbert Rodriguez </span><img src="images/leaders/gilbert.png">Outreach Coordinator</a></li>
-              <li><a class="contactName" href="mailto:"><span class="text"> Margret Tumbokon </span><img src="images/leaders/longhorn.png">Historian</a></li>
-              <li><a class="contactName" href="mailto:"><span class="text"> Siddharth Desai </span><img src="images/leaders/longhorn.png">Webmaster</a></li>
-              <!--<li><a class="contactName" href="mailto:"><span class="text"> Kristen Palughi</span><img src="images/leaders/kristen.png">SEC Representative</a></li>-->
-      
-            </ul>
-          </div>
-        </section>
-      </div>
+    <hr> 
+    <div class = "large-12 columns">
+      <span style="font-size:2em; margin-bottom:20px;">
+        <a href ="docs/RASByLaws-2013.pdf">RAS ByLaws</a> 
+        <a style="float:right;"href ="docs/RASConstitution.pdf">RAS Constitution</a>
+      </span>
     </div>
- 
-    <!-- End Contact Details -->
- 
- 
-    <!-- Sidebar -->
- 
-
-    <div class="large-3 columns">
-      <h5>Map</h5>
-      <!-- Clicking this placeholder fires the mapModal Reveal modal -->
-      <p>
-        <a><img src="images/ens_inset.gif"></a>
-      </p>
-      <p>
-        ENS 31 - NP<br />
-        Electrical & Computer Engineering<br />
-        2501 Speedway, Stop C0803<br />
-        Austin, TX 78712-1684
-        <br /><br />
-        Our new location is a bit difficult to find. Once inside ENS, take the elevator down to the Lower Basement, and take a right. Keep going straight and we will be inside the last opening.
-      </p>
-    </div>
-    <!-- End Sidebar -->
-        <div class = "large-12 columns">
-    <span style="font-size:2em; margin-bottom:20px;"><a href ="docs/RASByLaws-2013.pdf">RAS ByLaws</a> <a style="float:right;"href ="docs/RASConstitution.pdf">RAS Constitution</a></span>
   </div>
-
-  </div>
-
-
- 
-  <!-- End Main Content and Sidebar -->
  
 
   <!-- Footer -->
