@@ -60,7 +60,7 @@
                 <span class="title">SparkFun AVC:</span> An autonomous robotics competition, several teams compete to race around a track, avoiding obstacles and other robots. Most recent rules can be found <a class="bodyLink" href="https://avc.sparkfun.com/2014">here</a>.
               </li>
                <li>
-                <span class="title">Mercury Robotics Competition:</span> This is a description of the competition. More on the competition can be found <a class="bodyLink" href="http://mercury.okstate.edu/2014%20Mercury%20Challenge%20Manual_rev1.pdf">here</a>.
+                <span class="title">Mercury Robotics Competition:</span> Robotics competition where you remotely control a robot around a field from 50 miles away. More on the competition can be found <a class="bodyLink" href="http://mercury.okstate.edu/2014%20Mercury%20Challenge%20Manual_rev1.pdf">here</a>.
               </li>
               <li>
                 <span class="title">DPRG RoboRama:</span> A small scale robotics competition with various levels of robot challenges held in Dallas, Texas.
