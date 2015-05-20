@@ -1,132 +1,132 @@
 - name: IEEE
   url: http://www.ieee.org/index.html
   image:
-    url: images/support/ieee.png
+    url: static/images/support/ieee.png
     width: 1114px
     height: 355px
 
 - name: GoPro
   url: http://gopro.com
   image:
-    url: images/support/gopro.png
+    url: static/images/support/gopro.png
     width: 999px
     height: 281px
 
 - name: Intel
   url: http://www.intel.com/content/www/us/en/homepage.html
   image:
-    url: images/support/intel.png
+    url: static/images/support/intel.png
     width: 329px
     height: 217px
 
 - name: TI
   url: http://www.ti.com
   image:
-    url: images/support/texas-instruments.png
+    url: static/images/support/texas-instruments.png
     width: 425px
     height: 397px
 
 - name: Digi
   url: http://www.digi.com
   image:
-    url: images/support/digi.png
+    url: static/images/support/digi.png
     width: 236px
     height: 214px
 
 - name: NVIDIA
   url: http://www.nvidia.com/content/global/global.php
   image:
-    url: images/support/nvidia.png
+    url: static/images/support/nvidia.png
     width: 267px
   height: 204px
 
 - name: Mouser
   url: http://www.mouser.com/
   image:
-    url: images/support/mouser.png
+    url: static/images/support/mouser.png
     width: 864px
     height: 393px
 
 - name: Regal Plastics
   url: http://www.regal-plastics.com/
   image:
-    url: images/support/regal.png
+    url: static/images/support/regal.png
     width: 217px
     height: 100px
 
 - name: Pololu
   url: http://www.pololu.com/
   image:
-    url: images/support/pololu.png
+    url: static/images/support/pololu.png
     width: 526px
     height: 188px
 
 - name: 4pcb
   url: http://www.4pcb.com/
   image:
-    url: images/support/advcir.png
+    url: static/images/support/advcir.png
     width: 314px
     height: 99px
 
 - name: Zotacusa
   url: http://www.zotacusa.com/
   image:
-    url: images/support/zotac.png
+    url: static/images/support/zotac.png
     width: 852px
     height: 302px
 
 - name: Vectornav
   url: http://www.vectornav.com/
   image:
-    url: images/support/vectornav.png
+    url: static/images/support/vectornav.png
     width: 1024px
     height: 178px
 
 - name: Inventables
   url: https://www.inventables.com/
   image:
-    url: images/support/inventables.png
+    url: static/images/support/inventables.png
     width: 540px
     height: 108px
 
 - name: Univerity Co-op
   url: http://www.universitycoop.com/
   image:
-    url: images/support/ut-coop.png
+    url: static/images/support/ut-coop.png
     width: 2550px
     height: 326px
 
 - name: SLB
   url: http://www.slb.com/
   image:
-    url: images/support/schlumberger.png
+    url: static/images/support/schlumberger.png
     width: 2323px
     height: 567px
 
 - name: AMS
   url: http://ams.com/eng
   image:
-    url: images/support/ams.png
+    url: static/images/support/ams.png
     width: 788px
     height: 213px
 
 - name: SparkFun
   url: https://www.sparkfun.com/
   image:
-    url: images/support/sparkfun.png
+    url: static/images/support/sparkfun.png
     width: 3297px
     height: 969px
 
 - name: Trimble
   url: http://www.trimble.com/
   image:
-    url: images/support/trimble.png
+    url: static/images/support/trimble.png
     width: 1079px
     height: 252px
 
 - name: CustomCircuitBoards
   url: http://www.customcircuitboards.com/
   image:
-    url: images/support/custom-circuit-boards.png
+    url: static/images/support/custom-circuit-boards.png
     width: 499px
     height: 68px
