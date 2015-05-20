@@ -1,0 +1,13 @@
+<div class="row">
+  <div class="large-3 columns">
+    <h1 class="logo"><a href="index.html"><img src="images/logo.png"></a></h1>
+  </div>
+  <div class="large-9 columns">
+    <ul class="right button-group">
+      {% for eachpage in site.data.pages %}
+      {% if eachpage.title == page.title %}<li class="active">{% else %}<li>{% endif %}
+              <a href="{{ site.baseurl }}{{ eachpage.url }}" class="button">{{ eachpage.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
