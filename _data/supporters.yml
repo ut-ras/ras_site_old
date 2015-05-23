@@ -32,10 +32,3 @@
     url: static/images/support/ut-coop.png
     width: 2550px
     height: 326px
-
-- name: UTSG
-  url: http://utsg.org/
-  image:
-    url: images/support/utsg.jpeg
-    width: 400px
-    heigh: 400px
