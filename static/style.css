@@ -95,9 +95,19 @@ body, a, p, h1, h2, h3, h4, h5, h6, span {
     margin-top:5px;
 }
 
+.Collage{
+    padding:10px;
+}
+
 .Collage img {
      filter: gray; 
     -webkit-filter: grayscale(100%);
+    margin:0;
+    padding:0;
+    display:inline-block;
+    vertical-align:bottom;
+    opacity:1;
+    border:5px solid #eee;
 }
 
 .Collage img:hover {
