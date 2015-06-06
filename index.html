@@ -5,16 +5,14 @@ title: Home
 
 <div class="row"> <div class="large-12 columns">
   <ul data-orbit>
-    <li><img src="static/images/RasAlt2.png" /></li>
-    <li><img src="static/images/4.jpg" /></li>
-    <li><img src="static/images/1.jpg" /></li>
-    <li><img src="static/images/2.jpg" /></li>
-    <li><img src="static/images/3.jpg" /></li>
+    {% for i in (0..4) %}
+      <li><img src="static/images/homepage-orbit/{{ i }}.jpg" /></li>
+    {% endfor %}
   </ul>
   <div class="row"> <div class="large-12 columns"> <div class="panel">
     <h4>IEEE Robotics & Automation Society at The University of Texas – Austin</h4>
     <div class="row"> <div class="large-12 columns">
-      <p> inspires greater research into the field of robotics and aims to make robotics more accessible to persons of all ages and backgrounds. We have been a student organization building robots since 1997 and have primary residence in the Electrical and Computer Engineering Department. Our group has a large majority of undergraduate students with backgrounds from mechanical, electrical, aerospace engineering and computer science. We help students gain practical multi-disciplinary experience in the lab and demonstrate our abilities at various robotics competitions. We also keep a high priority in community outreach as shown below with our periodic events.</p>
+      <p> inspires greater research into the field of robotics and aims to make robotics more accessible to persons of all ages and backgrounds. We have been a student organization building robots since 1997 and have primary residence in the Electrical and Computer Engineering Department. Our group has a large majority of undergraduate students with backgrounds from mechanical, electrical, aerospace engineering and computer science. We help students gain practical multi-disciplinary experience in the lab and demonstrate our abilities at various robotics competitions. We also keep a high priority in community outreach with our periodic events.</p>
     </div> </div>
   </div> </div> </div>
 
