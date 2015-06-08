@@ -64,4 +64,7 @@ The time frame for the event is about two months; but participating in the event
 
   Our office is in ACA 101. During the summer, people may or may not be in the office at any given time due to Summer commitments, but stop by and check if the door is open!
 
-  For any addition questions, concerns, clarifications, etc, feel free to contact Alex Gerome (alex dot gerome at utexas dot edu). Occasionally, I will update the FAQ with relevant questions, so check back later to see if there is more information.
+  For any addition questions, concerns, clarifications, etc, feel free to contact us. Occasionally, we will update the FAQ with relevant questions, so check back later to see if there is more information.
+
+- **Alex Gerome** (President): alex (dot) gerome (at) utexas (dot) edu
+- **Sarah Muschinske** (Robotathon Committee Chair): sarah (at) muschinske (dot) com
