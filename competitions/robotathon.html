@@ -1,0 +1,27 @@
+---
+layout: default
+title: Robotathon
+---
+
+<div class="row">
+  <div class="large-12 columns">
+    {% capture markdown %}{% include_relative robotathon.md %}{% endcapture %}
+    {{ markdown | markdownify }}
+
+    <h2>Interested in checking out a sample?</h2>
+    <h4>Here's <a class="bodyLink" href="https://docs.google.com/document/d/1Ag8XPbvNWK_pAI8gVBLPifmuLdMMhl6caUlOxa-XQ_A/edit?usp=sharing">last year's competition</a>.</h4><br /><br />
+
+
+    <div class="left">
+      <h1 class="logo"><a href="index.html"><img src="{{ site.baseurl }}/static/images/logo.png"></a></h1>
+    </div>
+    <!--
+    <div class="right">
+      <br/>
+      <h4>Join the discussion on
+      <a href="http://www.facebook.com/groups/1536968796572159/"><strong>facebook</strong></a>
+      or twitter (<a href="http://www.twitter.com/hashtag/robotathon2015"><strong>#robotathon2015</strong></a>) !</h4>
+    </div>
+    -->
+  </div>
+</div>
