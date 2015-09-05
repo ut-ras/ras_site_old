@@ -68,3 +68,24 @@ The time frame for the event is about two months; but participating in the event
 
 - **Alex Gerome** (President): alex (dot) gerome (at) utexas (dot) edu
 - **Sarah Muschinske** (Robotathon Committee Chair): sarah (at) muschinske (dot) com
+
+## Robotathon Schedule
+
+Robotathon officially starts on kickoff, which is **Sep. 29 at 7pm in RLM
+7.104**.  Kickoff is when we announce the competition for the year and explain
+the logistics of the competition.  Before and after kickoff, there will be
+several **workshops** given by our members to teach aspiring roboticists the
+fundamentals of the craft.  Workshops are every **Wednesday and Thursday from
+8-9 at RLM 6.104**.
+
+| **Date**     | **Topic**
+| Sep. 9, 10   | Robot Design
+| Sep. 16, 17  | Programming 1
+| Sep. 23, 24  | Materials, Manufacturing, and Project Management
+| Sep. 30, 31  | Soldering and Electronics
+| Oct. 7, 8    | Programming 2
+| Oct. 14, 15  | Version Control and Github
+| Oct. 21, 22  | Libraries + RASLib
+| Oct. 28, 29  | Basic Controls
+| Nov. 4, 5    | Advanced Controls
+| Nov. 11, 12  | Review and Prepare for Competition
