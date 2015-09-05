@@ -1,0 +1,48 @@
+mailing_list: "http://goo.gl/forms/jbfS0aeWV5"
+robotathon_signup: " https://docs.google.com/forms/d/1i-7XXY8h4tcvvs-S7zpMZ6xfXXarEo8c34-PNWaWgpM/viewform"
+
+members:
+  - title: President
+    name: Alex Gerome
+    email: ras_president
+    email_host: utlists.utexas.edu
+
+  - title: Vice President
+    name: Siddharth Desai
+    email: ras_vice_president
+    email_host: utlists.utexas.edu
+
+  - title: Secretary
+    name: Andrew Ferrari
+    email: ras_secretary
+    email_host: utlists.utexas.edu
+
+  - title: Corporate Relations
+    name: Selma Wanna
+    email: ras_corporate
+    email_host: utlists.utexas.edu
+
+  - title: Outreach
+    name: Jake Klovenski
+    email: ras_outreach
+    email_host: utlists.utexas.edu
+
+  - title: Representator
+    name: Cj Pleiter
+    email: ras_rep_coordinator
+    email_host: utlists.utexas.edu
+
+  - title: Treasurer
+    name: Judson Daniels
+    email: ras_treasury
+    email_host: utlists.utexas.edu
+
+  - title: Webmaster
+    name: Kevin George
+    email: ras_webmaster
+    email_host: utlists.utexas.edu
+
+  - title: Special Events Coordinator
+    name: Hasun Amarasekara
+    email_host: utlists.utexas.edu
+    email: ras_special_events
