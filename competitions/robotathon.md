@@ -8,7 +8,7 @@ Robotathon is an annual event held every Fall semester at the University of Texa
 
 ### What is this year’s competition?
 
-  That information happens to be top secret! We design a fresh competition every year, and this year’s will be revealed at the Robotathon Kickoff in late September.
+RASBall! It's like soccer, but more robotical. [<span class="bodyLink">The rules can be found here.</span>](https://docs.google.com/document/d/1hfSpVskHWOAh7aOXTNXNO6KRsrEJpE1zWfta7-i_PLo)
 
 ### When does Robotathon happen?
 
