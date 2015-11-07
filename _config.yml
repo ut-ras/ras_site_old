@@ -4,5 +4,8 @@ description: >
   IEEE Robotics and Automation Society at the Univerity of Texas - Austin
 baseurl: "/ras_site"
 url: "ras.ece.utexas.edu"
+gems: [jekyll-paginate]
+markdown: redcarpet
+highlighter: pygments
 paginate: 1
 paginate_path: "blog/page:num/"
