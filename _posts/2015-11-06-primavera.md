@@ -1,5 +1,6 @@
 ---
 layout: post
+imagepath: static/images/blog/2015-11-06-primavera
 title: Primavera
 ---
 
@@ -10,11 +11,14 @@ take you through our process, but first a quick introduction to Robotticelli.
 
 ### Robotticelli
 
-Joe Kristofoletti, an Austin artist, was commissioned by the [Austin art] to
-do an interesting art project.  He has experience painting murals, but was
-feeling lazy, and since we're in the age of robots, he asked us to make a robot
-to do it for him.  So our challenge: build a robot that, given an image, spray
-paints it on the side of a roughly 5-story tall building.
+Joe Kristofoletti, an Austin artist was engaged by the
+[<span class="bodyLink">Drawing Lines</span>][drawinglines] project to do
+something interesting.  But he was feeling lazy, and since we're in the age of
+robots, he asked us to make a robot to do it for him.  So our challenge: build a
+robot that, given an image, spray paints it on the side of a roughly 5-story
+tall building.
+
+[drawinglines]: http://www.drawinglinesaustin.com/news-events/2015/9/18/from-the-studio-district-six
 
 One of the limitations of doing this with a robot is that it can carry only so
 many cans of spray paint with it as it climbs all over the wall.  Our current
@@ -29,7 +33,7 @@ to over 16 million different colors) and represent it with just four to eight?
 The technical term for this process is called "color quantization", or reducing
 the number of distinct colors in an image.  We adapted a color quantization
 algorithms using kmeans to identify the best colors of spray paint to create a
-particular image. 
+particular image.
 
 We use Python, 
 [<span class="bodyLink">scikit-learn</span>][sklearn], and
@@ -88,7 +92,8 @@ cv2.imwrite('out-kmeans.png', image)
 
 The output looks something like this:
 
-[//]: # (Include frog.jpg and out-kmeans.png)
+![Before]({{ site.baseurl }}/{{ page.imagepath }}/frog.jpg)
+![After]({{ site.baseurl }}/{{ page.imagepath }}/out-kmeans.png)
 
 The output image contains only the RGB values shown above. It looks like a frog,
 but there's a problem: these colors have nothing to do with the colors of spray
@@ -156,8 +161,9 @@ list(names[centers_to_db])
      u'Fjord']
 
 
+![Before]({{ site.baseurl }}/{{ page.imagepath }}/frog.jpg)
+![After]({{ site.baseurl }}/{{ page.imagepath }}/out-database.png)
 
-[//]: # (Include frog.jpg and out-database.png)
 The core of the conversion is the same; there's just a step before and after
 that we run through to get the best colors in our database. The output image has
 the same form and constrasts as the original, but we can do one better:
