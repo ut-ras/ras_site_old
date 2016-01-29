@@ -1,6 +1,9 @@
-# CURM
 
 ## Saturday, April 23rd, 2016 @ Noon - 4pm
+
+#### [<span class="bodyLink">Register for CURM</span>](http://www.google.com)
+
+[//]: # (#### [<span class="bodyLink">CURM Rules</span>]({{ site.baseurl }}/static/curm2016.pdf)
 
 CURM is an annual robotics convention held at the University of Texas at
 Austin by the UT Robotics and Automation Society (RAS). It is open to
@@ -12,7 +15,7 @@ through presentations and small competitions.
 
 We will have some minor social events prior to the main convention. If
 you are in the Austin area, feel free to come by and meet other CURM
-participants. More info TBA
+participants. More info TBA.
 
 ## Frequently Asked Questions
 
