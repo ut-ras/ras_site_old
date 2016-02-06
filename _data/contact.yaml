@@ -13,7 +13,7 @@ members:
     email_host: utlists.utexas.edu
 
   - title: Secretary
-    name: Andrew Ferrari
+    name: Brandon Shang
     email: ras_secretary
     email_host: utlists.utexas.edu
 
@@ -37,12 +37,17 @@ members:
     email: ras_treasury
     email_host: utlists.utexas.edu
 
+  - title: Historian
+    name: Shantanu Kanvinde
+    email: ras_historian
+    email_host: utlists.utexas.edu
+
   - title: Webmaster
     name: Kevin George
     email: ras_webmaster
     email_host: utlists.utexas.edu
 
   - title: Special Events Coordinator
-    name: Hasun Amarasekara
+    name: Brian Wang
     email_host: utlists.utexas.edu
     email: ras_special_events
