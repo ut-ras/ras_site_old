@@ -15,7 +15,12 @@ through presentations and small competitions.
 
 We will have some minor social events prior to the main convention. If
 you are in the Austin area, feel free to come by and meet other CURM
-participants. More info TBA.
+participants.
+
+### Kickoff Workshop
+The first social event will be on Saturday, Feb. 20th from 2-3PM, in our office,
+[<span class="bodyLink">ACA 101</span>](https://www.utexas.edu/facilities/buildings/UTM/0228).
+Snacks will be provided!
 
 ## Frequently Asked Questions
 
