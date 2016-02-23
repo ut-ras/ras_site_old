@@ -101,3 +101,5 @@ post-competition survey:
 ### “The mentors are awesome!!!”
 
 ###### “My favorite part about Robotathon was learning about the difference sensors and reverse engineering other people’s code and designs.”
+
+###### Author: Sarah Muschinske

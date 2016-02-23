@@ -197,3 +197,5 @@ Software is all well and good, but where's the actual robot? The mechanical team
 is furiously writing code to model the kinematics of the robot, and designing
 the various components in CAD. If you want to help us out, you can find us at
 the RAS office in the ACA. Feel free to drop by!
+
+###### Author: Kevin George
