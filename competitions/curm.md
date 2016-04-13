@@ -1,5 +1,5 @@
 
-## Saturday, April 23rd, 2016 @ Noon - 4pm
+## Saturday, April 23rd, 2016 @ Noon - 4pm, ETC 2.136
 
 #### [<span class="bodyLink">CURM Rules</span>]({{ site.baseurl }}/static/curm2016.pdf)
 
@@ -17,10 +17,12 @@ We will have some minor social events prior to the main convention. If
 you are in the Austin area, feel free to come by and meet other CURM
 participants.
 
-### Kickoff Workshop
-The first social event will be on Saturday, Feb. 20th from 2-3PM, in our office,
-[<span class="bodyLink">ACA 101</span>](https://www.utexas.edu/facilities/buildings/UTM/0228).
-Snacks will be provided!
+### Competition
+
+Competition will be held on Saturday, April 23rd, from Noon to 4pm.  We will be
+in [<span class="bodyLink">ETC
+2.136</span>](http://www.utexas.edu/maps/main/buildings/etc.html).  Come show
+off your robot or watch the competition!
 
 ## Frequently Asked Questions
 
