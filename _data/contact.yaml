@@ -3,22 +3,22 @@ robotathon_signup: " https://docs.google.com/forms/d/1i-7XXY8h4tcvvs-S7zpMZ6xfXX
 
 members:
   - title: President
-    name: Alex Gerome
+    name: Shantanu Kanvinde
     email: ras_president
     email_host: utlists.utexas.edu
 
   - title: Vice President
-    name: Siddharth Desai
+    name: CJ Pleiter
     email: ras_vice_president
     email_host: utlists.utexas.edu
 
   - title: Secretary
-    name: Brandon Shang
+    name: Vishnu Thiagarajan
     email: ras_secretary
     email_host: utlists.utexas.edu
 
   - title: Corporate Relations
-    name: Selma Wanna
+    name: Sarah Muschinske
     email: ras_corporate
     email_host: utlists.utexas.edu
 
@@ -28,26 +28,26 @@ members:
     email_host: utlists.utexas.edu
 
   - title: Representator
-    name: Cj Pleiter
+    name: Aaron Evans
     email: ras_rep_coordinator
     email_host: utlists.utexas.edu
 
   - title: Treasurer
-    name: Judson Daniels
+    name: Brandon Shang
     email: ras_treasury
     email_host: utlists.utexas.edu
 
   - title: Historian
-    name: Shantanu Kanvinde
+    name: Mark Jennings
     email: ras_historian
     email_host: utlists.utexas.edu
 
   - title: Webmaster
-    name: Kevin George
+    name: Jon Dahm
     email: ras_webmaster
     email_host: utlists.utexas.edu
 
   - title: Special Events Coordinator
-    name: Brian Wang
+    name: Selma Wanna
     email_host: utlists.utexas.edu
     email: ras_special_events
