@@ -1,6 +1,6 @@
 ## Welcome to Robotathon 2015!
 
-Add yourself to the UT RAS [<span class="bodyLink">mailing list</span>](http://goo.gl/forms/jbfS0aeWV5) to keep up-to-date on news and announcements.
+Add yourself to the UT RAS [<span class="bodyLink">mailing list</span>]({{ site.data.contact.mailing_list }}) to keep up-to-date on news and announcements.
 
 ### So What is Robotathon?
 
@@ -34,7 +34,7 @@ RASBall! It's like soccer, but more robotical. [<span class="bodyLink">The rules
 
 ### How do I sign up?
 
-  Well, sign-ups for Robotathon aren’t up yet. They will be up starting at the first general meeting for UT IEEE RAS in the Fall! If you are really excited to participate, make sure to include your information [<span class="bodyLink">here</span>](http://goo.gl/forms/jbfS0aeWV5) so that we can add you directly to our mailing list at the end of the summer!
+  Well, sign-ups for Robotathon aren’t up yet. They will be up starting at the first general meeting for UT IEEE RAS in the Fall! If you are really excited to participate, make sure to include your information [<span class="bodyLink">here</span>]({{ site.data.contact.mailing_list }}) so that we can add you directly to our mailing list at the end of the summer!
 
   In addition, you may have noticed that it said we select around 100 people to participate. This event always has a bunch of people that are interested, and while we try to take as many people as we can, we don’t always have the resources to hold everyone. We use the initial workshops and general meetings to gauge interest, so make sure to keep an eye out for them this Fall!
 
