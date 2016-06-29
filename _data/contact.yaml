@@ -12,9 +12,9 @@ members:
     email: ras_vice_president
     email_host: utlists.utexas.edu
 
-  - title: Secretary
-    name: Vishnu Thiagarajan
-    email: ras_secretary
+  - title: Treasurer
+    name: Brandon Shang
+    email: ras_treasury
     email_host: utlists.utexas.edu
 
   - title: Corporate Relations
@@ -22,19 +22,19 @@ members:
     email: ras_corporate
     email_host: utlists.utexas.edu
 
-  - title: Outreach
+  - title: Fundraising Coordinator
+    name: Chris Gill
+    email: ras_fundraising
+    email_host: utlists.utexas.edu
+
+  - title: Outreach Coordinator
     name: Jake Klovenski
     email: ras_outreach
     email_host: utlists.utexas.edu
 
-  - title: Representator
-    name: Aaron Evans
-    email: ras_rep_coordinator
-    email_host: utlists.utexas.edu
-
-  - title: Treasurer
-    name: Brandon Shang
-    email: ras_treasury
+  - title: Secretary
+    name: Vishnu Thiagarajan
+    email: ras_secretary
     email_host: utlists.utexas.edu
 
   - title: Historian
@@ -51,3 +51,14 @@ members:
     name: Selma Wanna
     email_host: utlists.utexas.edu
     email: ras_special_events
+
+  - title: Representative Coordinator
+    name: Aaron Evans
+    email: ras_rep_coordinator
+    email_host: utlists.utexas.edu
+
+  - title: Publicity Coordinator
+    name: Alexander Gerome
+    email: ras_publicity
+    email_host: utlists.utexas.edu
+
