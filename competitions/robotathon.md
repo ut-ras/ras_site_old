@@ -1,4 +1,4 @@
-## Welcome to Robotathon 2015!
+## Welcome to Robotathon 2016!
 
 Add yourself to the UT RAS [<span class="bodyLink">mailing list</span>]({{ site.data.contact.mailing_list }}) to keep up-to-date on news and announcements.
 
@@ -8,11 +8,11 @@ Robotathon is an annual event held every Fall semester at the University of Texa
 
 ### What is this year’s competition?
 
-RASBall! It's like soccer, but more robotical. [<span class="bodyLink">The rules can be found here.</span>](https://docs.google.com/document/d/1hfSpVskHWOAh7aOXTNXNO6KRsrEJpE1zWfta7-i_PLo)
+We can't tell you yet! Check back with us later for more information.
 
 ### When does Robotathon happen?
 
-  The kickoff for Robotathon 2015 is scheduled for late September; this is when teams will be assigned and will begin to receive their parts. Starting in early September and lasting up until the competition, we will hold sets of weekly workshops covering topics from mechanical design to advanced algorithms for robotics. In addition, once Robotathon gets rolling, weekly checkpoints will due for points that will count towards your final competition score. Robotathon itself is held in late November: the Monday of Thanksgiving Week in fact!
+  The kickoff for Robotathon 2016 is scheduled for late September; this is when teams will be assigned and will begin to receive their parts. Starting in early September and lasting up until the competition, we will hold sets of weekly workshops covering topics from mechanical design to advanced algorithms for robotics. In addition, once Robotathon gets rolling, weekly checkpoints will due for points that will count towards your final competition score. Robotathon itself is held in late November: the Monday of Thanksgiving Week in fact!
 
 ### Checkpoints?
 
@@ -40,7 +40,7 @@ RASBall! It's like soccer, but more robotical. [<span class="bodyLink">The rules
 
 ### First General Meeting
 
-  RAS’s first general meeting, which will cover Robotathon and everything we do as a student org at the University of Texas at Austin will be Tuesday, September 1st, at 7:00PM. Location is TBA at the moment.
+  RAS’s first general meeting, which will cover Robotathon and everything we do as a student org at the University of Texas at Austin will be Tuesday, August 30th, at 7:00PM. Location is TBA at the moment.
 
 ### UT RAS
 
@@ -54,7 +54,7 @@ RASBall! It's like soccer, but more robotical. [<span class="bodyLink">The rules
 Yes. This is currently an event for only UT students. In addition, you can not have participated in a previous year’s Robotathon.
 
 #### Does this cost anything?
-Unfortunately, yes. To participate in Robotathon, you have to pay a fee for parts in addition to RAS dues for the semester. Generally this is in the area of $30.
+Yes. To participate in Robotathon, you have to pay a fee for parts in addition to RAS dues for the semester. Generally this is in the area of $30.
 
 #### How much time does this take?
 The time frame for the event is about two months; but participating in the event is requires about the same amount of time as a light class. The big difference here is that Robotathon, unlike many first semester classes, is very hands on and practical event. By participating in Robotathon, you will learn a large amount of information that you won’t even touch on in classes until Sophomore, Junior, or even Senior year. It does require some effort to be put forth, but it is very much worth it.
@@ -62,30 +62,25 @@ The time frame for the event is about two months; but participating in the event
 
 #### Any further questions about Robotathon or RAS?
 
-  Our office is in ACA 101. During the summer, people may or may not be in the office at any given time due to Summer commitments, but stop by and check if the door is open!
+  Our office is in AGH 134. During the summer, people may or may not be in the office at any given time due to Summer commitments, but stop by and check if the door is open!
 
   For any addition questions, concerns, clarifications, etc, feel free to contact us. Occasionally, we will update the FAQ with relevant questions, so check back later to see if there is more information.
 
-- **Alex Gerome** (President): alex (dot) gerome (at) utexas (dot) edu
-- **Sarah Muschinske** (Robotathon Committee Chair): sarah (at) muschinske (dot) com
+- **Shantanu Kanvinde** (President): ras_president (at) utlists (dot) utexas (dot) edu
+- **Brian Wang** (Robotathon Committee Chair): wangbri (at) gmail (dot) com
 
 ## Robotathon Schedule
 
-Robotathon officially starts on kickoff, which is **Sep. 29 at 7pm in RLM
-7.104**.  Kickoff is when we announce the competition for the year and explain
-the logistics of the competition.  Before and after kickoff, there will be
-several **workshops** given by our members to teach aspiring roboticists the
-fundamentals of the craft.  Workshops are every **Wednesday and Thursday from
-8-9 at RLM 6.104**.
+Robotathon officially starts on kickoff, which is **Sep. 27 at 7pm** in a room yet to be decided.  Kickoff is when we announce the competition for the year and explain the logistics of the competition.  Before and after kickoff, there will be several **workshops** given by our members to teach aspiring roboticists the fundamentals of the craft.  Workshops are every **Wednesday and Thursday from 8-9** in a room yet to be decided.
 
 | **Date**     | **Topic**
-| Sep. 9, 10   | Robot Design
-| Sep. 16, 17  | Programming 1
-| Sep. 23, 24  | Materials, Manufacturing, and Project Management
-| Sep. 30, 31  | Soldering and Electronics
-| Oct. 7, 8    | Programming 2
-| Oct. 14, 15  | Version Control and Github
-| Oct. 21, 22  | Libraries + RASLib
-| Oct. 28, 29  | Basic Controls
-| Nov. 4, 5    | Advanced Controls
-| Nov. 11, 12  | Review and Prepare for Competition
+| Sep. 7, 8    | Robot Design
+| Sep. 14, 15  | Programming 1
+| Sep. 21, 22  | Materials, Manufacturing, and Project Management
+| Sep. 28, 29  | Soldering and Electronics
+| Oct. 5, 6    | Programming 2
+| Oct. 12, 13  | Version Control and Github
+| Oct. 19, 20  | Libraries + RASLib
+| Oct. 26, 27  | Basic Controls
+| Nov. 2, 3    | Advanced Controls
+| Nov. 9, 10  | Review and Prepare for Competition
