@@ -67,7 +67,7 @@ The time frame for the event is about two months; but participating in the event
   For any addition questions, concerns, clarifications, etc, feel free to contact us. Occasionally, we will update the FAQ with relevant questions, so check back later to see if there is more information.
 
 - **Shantanu Kanvinde** (President): ras_president (at) utlists (dot) utexas (dot) edu
-- **Brian Wang** (Robotathon Committee Chair): wangbri (at) gmail (dot) com
+- **Brian Wilmarth** (Robotathon Committee Chair): bwilmarth (at) me (dot) com
 
 ## Robotathon Schedule
 
