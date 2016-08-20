@@ -28,10 +28,10 @@ competitors skills in the areas of wireless communication and autonomous
 driving. In 2015, the University of Texas Robotics and Automation Society won
 the Best Video Presentation Award for [<span class="bodyLink">a video production highlighting the organization's entry for the competition</span>](https://www.youtube.com/watch?v=QIHHMD3rOR0).
 
-### Region V
-Region V Robotics went to New Orleans in April for the 2015 competition. Going
+### Region 5
+Region 5 Robotics went to New Orleans in April for the 2015 competition. Going
 through a course autonomously using sensors and vision processing, UT RAS’s
-Region V team took 13th place in competition.
+Region 5 team took 13th place in competition.
 
 ### The Convention for Unconventional Robotic Movement (CURM)
 CURM is a convention hosted by the University of Texas Robotics and Automation
