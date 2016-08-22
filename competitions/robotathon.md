@@ -40,7 +40,7 @@ We can't tell you yet! Check back with us later for more information.
 
 ### First General Meeting
 
-  RAS’s first general meeting, which will cover Robotathon and everything we do as a student org at the University of Texas at Austin will be Tuesday, August 30th, at 7:00PM. Location is TBA at the moment.
+  RAS’s first general meeting, which will cover Robotathon and everything we do as a student org at the University of Texas at Austin will be Tuesday, August 30th, at 7:00PM in ECJ 1.202.
 
 ### UT RAS
 
@@ -54,7 +54,7 @@ We can't tell you yet! Check back with us later for more information.
 Yes. This is currently an event for only UT students. In addition, you can not have participated in a previous year’s Robotathon.
 
 #### Does this cost anything?
-Yes. To participate in Robotathon, you have to pay a fee for parts in addition to RAS dues for the semester. Generally this is in the area of $30.
+Yes. To participate in Robotathon, you must pay RAS membership dues ($15) and a fee for parts ($20) for the semester, totaling $35.
 
 #### How much time does this take?
 The time frame for the event is about two months; but participating in the event is requires about the same amount of time as a light class. The big difference here is that Robotathon, unlike many first semester classes, is very hands on and practical event. By participating in Robotathon, you will learn a large amount of information that you won’t even touch on in classes until Sophomore, Junior, or even Senior year. It does require some effort to be put forth, but it is very much worth it.
@@ -66,7 +66,7 @@ The time frame for the event is about two months; but participating in the event
 
   For any addition questions, concerns, clarifications, etc, feel free to contact us. Occasionally, we will update the FAQ with relevant questions, so check back later to see if there is more information.
 
-- **Shantanu Kanvinde** (President): ras_president (at) utlists (dot) utexas (dot) edu
+- **Shantanu Kanvinde** (President): ras\_president (at) utlists (dot) utexas (dot) edu
 - **Brian Wilmarth** (Robotathon Committee Chair): bwilmarth (at) me (dot) com
 
 ## Robotathon Schedule
