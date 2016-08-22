@@ -6,59 +6,71 @@ members:
     name: Shantanu Kanvinde
     email: ras_president
     email_host: utlists.utexas.edu
+    head_shot: president.jpg
 
   - title: Vice President
     name: CJ Pleiter
     email: ras_vice_president
     email_host: utlists.utexas.edu
+    head_shot: vice-president.jpg
 
   - title: Treasurer
     name: Brandon Shang
     email: ras_treasury
     email_host: utlists.utexas.edu
+    head_shot: treasurer.jpg
 
   - title: Corporate Relations
     name: Sarah Muschinske
     email: ras_corporate
     email_host: utlists.utexas.edu
+    head_shot: corporate-relations.jpg
 
   - title: Fundraising Coordinator
     name: Chris Gill
     email: ras_fundraising
     email_host: utlists.utexas.edu
+    head_shot: fundraising-coordinator.jpg
 
   - title: Outreach Coordinator
     name: Jake Klovenski
     email: ras_outreach
     email_host: utlists.utexas.edu
+    head_shot: outreach-coordinator.jpg
 
   - title: Secretary
     name: Vishnu Thiagarajan
     email: ras_secretary
     email_host: utlists.utexas.edu
+    head_shot: secretary.jpg
 
   - title: Historian
     name: Mark Jennings
     email: ras_historian
     email_host: utlists.utexas.edu
+    head_shot: historian.jpg
 
   - title: Webmaster
     name: Jon Dahm
     email: ras_webmaster
     email_host: utlists.utexas.edu
+    head_shot: webmaster.jpg
 
   - title: Special Events Coordinator
     name: Selma Wanna
     email_host: utlists.utexas.edu
     email: ras_special_events
+    head_shot: special-events-coordinator.jpg
 
   - title: Representative Coordinator
     name: Aaron Evans
     email: ras_rep_coordinator
     email_host: utlists.utexas.edu
+    head_shot: representative-coordinator.jpg
 
   - title: Publicity Coordinator
     name: Alexander Gerome
     email: ras_publicity
     email_host: utlists.utexas.edu
+    head_shot: publicity-coordinator.jpg
 
