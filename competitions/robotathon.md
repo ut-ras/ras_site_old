@@ -12,7 +12,7 @@ We can't tell you yet! Check back with us later for more information.
 
 ### When does Robotathon happen?
 
-  The kickoff for Robotathon 2016 is scheduled for late September; this is when teams will be assigned and will begin to receive their parts. Starting in early September and lasting up until the competition, we will hold sets of weekly workshops covering topics from mechanical design to advanced algorithms for robotics. In addition, once Robotathon gets rolling, weekly checkpoints will due for points that will count towards your final competition score. Robotathon itself is held in late November: the Monday of Thanksgiving Week in fact!
+The kickoff for Robotathon 2016 is scheduled for September 27th; this is when teams will be assigned and will begin to receive their parts. Starting in early September and lasting up until the competition, we will hold sets of weekly workshops covering topics from mechanical design to advanced algorithms for robotics. In addition, once Robotathon gets rolling, weekly checkpoints will due for points that will count towards your final competition score. Robotathon itself is held in late November: the Monday of Thanksgiving Week in fact!
 
 ### Checkpoints?
 
@@ -71,16 +71,17 @@ The time frame for the event is about two months; but participating in the event
 
 ## Robotathon Schedule
 
-Robotathon officially starts on kickoff, which is **Sep. 27 at 7pm** in a room yet to be decided.  Kickoff is when we announce the competition for the year and explain the logistics of the competition.  Before and after kickoff, there will be several **workshops** given by our members to teach aspiring roboticists the fundamentals of the craft.  Workshops are every **Wednesday and Thursday from 8-9** in a room yet to be decided.
+Robotathon officially starts on kickoff, which is **Sep. 27 at 7pm in ECJ 1.202.**  Kickoff is when we announce the competition for the year and explain the logistics of the competition.  Before and after kickoff, there will be several **workshops** given by our members to teach aspiring roboticists the fundamentals of the craft.  Workshops are every **Wednesday and Thursday from 8-9 in RLM 7.104.** The Wednesday and Thursday talks are identical, so there is no need to attend both times.
 
 | **Date**     | **Topic**
-| Sep. 7, 8    | Robot Design
-| Sep. 14, 15  | Programming 1
-| Sep. 21, 22  | Materials, Manufacturing, and Project Management
-| Sep. 28, 29  | Soldering and Electronics
-| Oct. 5, 6    | Programming 2
-| Oct. 12, 13  | Version Control and Github
-| Oct. 19, 20  | Libraries + RASLib
-| Oct. 26, 27  | Basic Controls
-| Nov. 2, 3    | Advanced Controls
-| Nov. 9, 10  | Review and Prepare for Competition
+| Sep. 14, 15  | Robot Design
+| Sep. 21, 22  | Programming 1
+| Sep. 28, 29  | Materials, Manufacturing, and Project Management
+| Oct.  5,  6  | Soldering and Electronics
+| Oct. 12, 13  | Programming 2
+| Oct. 19, 20  | Version Control and Github
+| Oct. 26, 27  | Libraries + RASLib
+| Nov.  2,  3  | Basic Controls
+| Nov.  9, 10  | Advanced Controls
+| Nov. 16, 17  | Review and Prepare for Competition
+
