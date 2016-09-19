@@ -8,7 +8,7 @@ Robotathon is an annual event held every Fall semester at the University of Texa
 
 ### What is this year’s competition?
 
-We can't tell you yet! Check back with us later for more information.
+We can't tell you yet! Attend the kickoff or check back with us afterwards for more information.
 
 ### When does Robotathon happen?
 
@@ -20,7 +20,7 @@ The kickoff for Robotathon 2016 is scheduled for September 27th; this is when te
 
 ### And Workshops?
 
-  Starting in early September, various leaders in RAS will hold talks twice a week (Wednesday/Thursday) in the evening on topics that in which they are experts. These cover various facets of robotics, and the first three are designed to help everyone build a solid foundation for Robotathon before it starts at the end of the month. Once the competition starts, workshops will help teach topics related to the competition and they will provide an open forum for any questions. Each team also has an upperclassmen mentor from RAS to help guide them along the way as well.
+  Starting in early September, various leaders in RAS will hold talks twice a week (Wednesday/Thursday) in the evening on topics in which they are experts. These cover various facets of robotics, and the first three are designed to help everyone build a solid foundation for Robotathon before it starts at the end of the month. Once the competition starts, workshops will help teach topics related to the competition and they will provide an open forum for any questions. Each team also has an upperclassmen mentor from RAS to help guide them along the way.
 
 ### What do I need to know to participate?
 
@@ -34,7 +34,7 @@ The kickoff for Robotathon 2016 is scheduled for September 27th; this is when te
 
 ### How do I sign up?
 
-  Well, sign-ups for Robotathon aren’t up yet. They will be up starting at the first general meeting for UT IEEE RAS in the Fall! If you are really excited to participate, make sure to include your information [<span class="bodyLink">here</span>]({{ site.data.contact.mailing_list }}) so that we can add you directly to our mailing list at the end of the summer!
+  You can sign up [here]({{ site.data.contact.robotathon_signup }})! If you are really excited to participate, make sure to include your information [<span class="bodyLink">here</span>]({{ site.data.contact.mailing_list }}) so that we can add you directly to our mailing list!
 
   In addition, you may have noticed that it said we select around 100 people to participate. This event always has a bunch of people that are interested, and while we try to take as many people as we can, we don’t always have the resources to hold everyone. We use the initial workshops and general meetings to gauge interest, so make sure to keep an eye out for them this Fall!
 
