@@ -8,11 +8,11 @@ Robotathon is an annual event held every Fall semester at the University of Texa
 
 ### What is this year’s competition?
 
-We can't tell you yet! Attend the kickoff or check back with us afterwards for more information.
+This year's competition is Pokemon RAS! Inspired by the popular game Pokemon GO, you must design a robot to pick up Pokeballs and capture Pokemon in the field! The field is designed to encourage wall-following and line-following to guide you to the balls and the Pokemon. You can find the rules in [this Google Document]({{ site.data.contact.robotathon_rules }}).
 
 ### When does Robotathon happen?
 
-The kickoff for Robotathon 2016 is scheduled for September 27th; this is when teams will be assigned and will begin to receive their parts. Starting in early September and lasting up until the competition, we will hold sets of weekly workshops covering topics from mechanical design to advanced algorithms for robotics. In addition, once Robotathon gets rolling, weekly checkpoints will due for points that will count towards your final competition score. Robotathon itself is held in late November: the Monday of Thanksgiving Week in fact!
+The kickoff for Robotathon 2016 happened on September 27th; this was when teams were assigned and began to receive their parts. Starting in early September and lasting up until the competition, we will hold sets of weekly workshops covering topics from mechanical design to advanced algorithms for robotics. In addition, once Robotathon gets rolling, weekly checkpoints will due for points that will count towards your final competition score. Robotathon itself is held in late November: the Monday of Thanksgiving Week in fact!
 
 ### Checkpoints?
 
@@ -40,7 +40,7 @@ The kickoff for Robotathon 2016 is scheduled for September 27th; this is when te
 
 ### First General Meeting
 
-  RAS’s first general meeting, which will cover Robotathon and everything we do as a student org at the University of Texas at Austin will be Tuesday, August 30th, at 7:00PM in ECJ 1.202.
+  RAS’s first general meeting, which covered Robotathon and everything we do as a student org at the University of Texas at Austin was held on Tuesday, August 30th, at 7:00PM in ECJ 1.202.
 
 ### UT RAS
 
