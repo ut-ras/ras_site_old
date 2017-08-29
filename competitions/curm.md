@@ -1,9 +1,7 @@
 
-## Saturday, April 23rd, 2016 @ Noon - 4pm, ETC 2.136
+## Date TBD, sometime in April
 
-#### [<span class="bodyLink">CURM Rules</span>]({{ site.baseurl }}/static/curm2016.pdf)
-
-#### [<span class="bodyLink">Register for CURM</span>](http://goo.gl/forms/1bXXFi8A9o)
+#### [<span class="bodyLink">2016 CURM Rules</span>]({{ site.baseurl }}/static/curm2016.pdf)
 
 CURM is an annual robotics convention held at the University of Texas at
 Austin by the UT Robotics and Automation Society (RAS). It is open to
@@ -19,23 +17,21 @@ participants.
 
 ### Competition
 
-Competition will be held on Saturday, April 23rd, from Noon to 4pm.  We will be
-in [<span class="bodyLink">ETC
-2.136</span>](http://www.utexas.edu/maps/main/buildings/etc.html).  Come show
-off your robot or watch the competition!
+Competition will be held in the late spring semester, date and location TBD.
+Come show off your robot or watch the competition!
 
 ## Frequently Asked Questions
 
 #### Do I have to be a UT student to participate/attend?
 
-No, CURM2016 is open to anyone. If you would like to participate, all
+No, CURM2017 is open to anyone. If you would like to participate, all
 you have to do is fill out the interest form. If you just want to attend,
 no registration is required.
 
 #### I don't have much experience with robotics? How can I build a robot?
 
 If you are a UT student, there are a variety of resources on campus. Come
-to the RAS Office (ACA101) and ask a leader how you can get started. If
+to the RAS Office (EER TBD) and ask a leader how you can get started. If
 you are not a UT student, look for a robotics organization or a maker
 space that can help you with your project. There are also a variety of
 resources online to help you get started in robotics. Feelfree to email
@@ -69,6 +65,5 @@ for announcements regarding these events.
 #### Something else?
 
 For any questions, concerns, or clarifications, feel free to ask people in the
-RAS office (ACA 101) or contact Sid (ras\_vice\_president (at)
-utlists.utexas.edu). Whether you have an idea and no idea how to tackle it, or
-vice-versa, people in RAS will be happy to help.
+RAS office (EER TBD) or contact us on Slack. Whether you have an idea and no
+idea how to tackle it, or vice-versa, people in RAS will be happy to help.
