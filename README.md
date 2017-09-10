@@ -4,12 +4,12 @@ ras_site
 Description
 -----------
 
-This is the source for the website for the IEEE Robotics and Automation Society at the University of Texas at Austin.
+This is the source code for the website for the IEEE Robotics and Automation Society at the University of Texas at Austin.  
 
 Demo
 ----
 
-You can view it [here](https://ras.ece.utexas.edu).
+You can view the website [here](https://ras.ece.utexas.edu).
 
 Developing
 ----------
