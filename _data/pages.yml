@@ -1,5 +1,5 @@
 - title: Home
-  url: /
+  url: /index.html
 - title: Calendar
   url: /calendar.html
 - title: About
@@ -8,5 +8,7 @@
   url: /contact.html
 - title: Media
   url: /media.html
-- title: Support
+- title: Supporters
   url: /support.html
+- title: Blog
+  url: /blog/postlist.html
