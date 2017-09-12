@@ -1,64 +1,64 @@
-mailing_list: "http://goo.gl/forms/8LmUQKm1qkRADYzG3"
-robotathon_signup: "https://docs.google.com/forms/d/e/1FAIpQLSetc34RFPBzXMKhD829shKURgkmZpuPBv2Eied2fhZArCBXBA/viewform?c=0&w=1"
-robotathon_rules: "https://docs.google.com/document/d/1TISEqDJPAkd4yec3cAYTjoDd_dGn6QOEaWKRNHWkeyw/edit"
+mailing_list: "https://goo.gl/forms/abpIpidOkdrGzW4n2"
+robotathon_signup: "https://docs.google.com/forms/d/e/1FAIpQLSdQvOBnWgapX2ZiKfvwC0Sdjnjw8w9WHttsDv0HvNsf95EvLA/viewform"
+old_robotathon_rules: "https://docs.google.com/document/d/1TISEqDJPAkd4yec3cAYTjoDd_dGn6QOEaWKRNHWkeyw/edit"
 
 members:
   - title: President
-    name: Shantanu Kanvinde
+    name: Brian Wilmarth
     email: ras_president
     email_host: utlists.utexas.edu
     head_shot: president.jpg
 
   - title: Vice President
-    name: CJ Pleiter
+    name: Meera Wakim
     email: ras_vice_president
     email_host: utlists.utexas.edu
     head_shot: vice-president.jpg
 
   - title: Treasurer
-    name: Brandon Shang
+    name: Hank Freeman
     email: ras_treasury
     email_host: utlists.utexas.edu
     head_shot: treasurer.jpg
 
   - title: Corporate Relations
-    name: Sarah Muschinske
+    name: Chris Gill
     email: ras_corporate
     email_host: utlists.utexas.edu
     head_shot: corporate-relations.jpg
 
   - title: Fundraising Coordinator
-    name: Chris Gill
+    name: Miguel Salinas
     email: ras_fundraising
     email_host: utlists.utexas.edu
     head_shot: fundraising-coordinator.jpg
 
   - title: Outreach Coordinator
-    name: Jake Klovenski
+    name: Vamsi Ghorakavi
     email: ras_outreach
     email_host: utlists.utexas.edu
     head_shot: outreach-coordinator.jpg
 
   - title: Secretary
-    name: Vishnu Thiagarajan
+    name: Florian Janke
     email: ras_secretary
     email_host: utlists.utexas.edu
     head_shot: secretary.jpg
 
   - title: Historian
-    name: Meera Wakim
+    name: Zach Pope
     email: ras_historian
     email_host: utlists.utexas.edu
     head_shot: historian.jpg
 
   - title: Webmaster
-    name: Jon Dahm
+    name: Daniel Teal
     email: ras_webmaster
     email_host: utlists.utexas.edu
     head_shot: webmaster.jpg
 
   - title: Special Events Coordinator
-    name: Anne Jillian Monsanto
+    name: Mark Jennings
     email_host: utlists.utexas.edu
     email: ras_special_events
     head_shot: special-events-coordinator.jpg
