@@ -5,13 +5,6 @@
     width: 425px
     height: 397px
 
-- name: Regal Plastics
-  url: http://www.regal-plastics.com/
-  image:
-    url: static/images/support/regal.png
-    width: 217px
-    height: 100px
-
 - name: Pololu
   url: http://www.pololu.com/
   image:
