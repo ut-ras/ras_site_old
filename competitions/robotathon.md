@@ -18,6 +18,10 @@ is on September 23, 2017. The schedule is [<span class="bodyLink">here</span>](h
 A Google calendar with important Robotathon events is at the bottom of this
 page (not here, because it's ginormous).
 
+### Competition Rules
+
+This year's competition is RASCAR! Race a robot. Full rules are [<span class="bodyLink">here</span>](https://docs.google.com/document/d/1X1pg5YiqzI2yn7MdyhsNAi7NLx7fW0Op4mXNOOJyyJw).
+
 ### Software
 
 As far as programming the TI Launchpad microcontroller boards we will supply
@@ -48,6 +52,20 @@ To edit code in Ubuntu, unless you want to go hardcore with vim or something,
 you may as well install the text editor Atom on your virtual machine according
 to their instructions [<span class="bodyLink">here</span>](http://flight-manual.atom.io/getting-started/sections/installing-atom/).
 
+### CAD
+
+The official Computer Aided Design (CAD) model of the 2017 Robotathon field is [<span class="bodyLink">here</span>](https://ras.ece.utexas.edu/static/data/robotathon_field_2017.step)! This is a STEP
+format file - your CAD program of choice, be it Fusion 360, SolidWorks, or
+something else - should be able to import it without any trouble.
+
+#### CAD Programs
+
+If you're an engineer at UT, you can use SolidWorks via virtual desktop from [<span class="bodyLink">here</span>](http://www.engr.utexas.edu/itg/facilities/virtualdesktop).
+
+If you're not an engineer and/or want to install software directly to your computer, you can check out Autodesk Fusion 360, which is free for students, [<span class="bodyLink">here</span>](https://www.autodesk.com/products/fusion-360/students-teachers-educators).
+
+![This year's Robotathon field]({{site.baseurl}}/static/images/robotathon_field_2017.png)
+
 ## FAQ
 
 ### So What is Robotathon?
@@ -56,7 +74,7 @@ Robotathon is an annual event held every Fall semester at the University of Texa
 
 ### What is this year’s competition?
 
-We can't tell you - yet! We'll link rules here after the Robotathon Conference kick-off, Saturday, 23 September, 2017. To tide you over, last year's competition was Pokemon RAS! Inspired by the popular game Pokemon GO, you must design a robot to pick up Pokeballs and capture Pokemon in the field! The field was designed to encourage wall-following and line-following to guide you to the balls and the Pokemon! You can find these old rules in [<span class="bodyLink">this Google document</span>](https://docs.google.com/document/d/1TISEqDJPAkd4yec3cAYTjoDd_dGn6QOEaWKRNHWkeyw)! Hype!
+RASCAR! Race a robot. Full rules are [<span class="bodyLink">here</span>](https://docs.google.com/document/d/1X1pg5YiqzI2yn7MdyhsNAi7NLx7fW0Op4mXNOOJyyJw).
 
 ### When does Robotathon happen?
 
