@@ -22,11 +22,15 @@ page (not here, because it's ginormous).
 
 This year's competition is RASCAR! Race a robot. Full rules are [<span class="bodyLink">here</span>](https://docs.google.com/document/d/1X1pg5YiqzI2yn7MdyhsNAi7NLx7fW0Op4mXNOOJyyJw).
 
-### Robotathon Conference 2017 Tech Talks
+### Robotathon Tech Talks
 
 Here are the presentations used at the 2017 Robotathon conference:
 
 [<span class="bodyLink">Mechanics</span>](https://docs.google.com/presentation/d/1iiF6zFCNxTHY43QMCvRTOSH4ZMmjn3eu5Prarh92Xtk/edit#slide=id.p) - [<span class="bodyLink">Electronics</span>](https://docs.google.com/presentation/d/10P6CM8NdSsHVvhTvfdfLTWS4TWnPUMPnfWLCOeiKTo0/edit#slide=id.p) - [<span class="bodyLink">Programming</span>](https://docs.google.com/document/d/16QSgcg7_8t2d9B4j8mOI7_YW3-kqKhxaRqoKS7y230Y/edit) - [<span class="bodyLink">Version Control</span>](https://docs.google.com/presentation/d/1twLnwEURofnCiFZvVNSQ4o4F96MNfPZ2Mce0EpoCMfc/edit?ts=59c88fab#slide=id.p)
+
+...and notes on the later tech talks:
+
+[<span class="bodyLink">Rasware Crash Course</span>](https://github.com/ut-ras/Rasware/blob/master/RASwareCrashCourse.md)
 
 ### Software
 
