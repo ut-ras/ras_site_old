@@ -30,7 +30,7 @@ Here are the presentations used at the 2017 Robotathon conference:
 
 ...and notes on the later tech talks:
 
-[<span class="bodyLink">Rasware Crash Course</span>](https://github.com/ut-ras/Rasware/blob/master/RASwareCrashCourse.md)
+[<span class="bodyLink">Rasware Crash Course</span>](https://github.com/ut-ras/Rasware/blob/master/RASwareCrashCourse.md) - [<span class="bodyLink">Algorithms</span>](https://docs.google.com/presentation/d/11Lf-qpIiA2saLfkIzv-h083vuKnoc4vAm2T04nOtPGs)
 
 ### Software
 
