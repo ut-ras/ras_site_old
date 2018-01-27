@@ -4,13 +4,15 @@ title: Blog
 ---
 
 <div class="container">
-<ul>
+<table class="table table-striped table-bordered">
+    <tbody>
     {% for post in site.posts %}
-    <li>
-        <a href="{{ post.url }}">{{ post.title }}</a>
-        <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
-        <p>{{ post.excerpt }}</td>
-    </li>
+    <tr>
+        <td><a href="{{ post.url }}">{{ post.title }}</a></td>
+        <td><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time></td>
+        <td><p>{{ post.excerpt }}</p></td>
+    </tr>
     {% endfor %}
-</ul>
+    </tbody>
+</table>
 </div>
