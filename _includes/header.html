@@ -15,7 +15,7 @@
                 <a class="dropdown-item" href="{{ site.baseurl }}/committees/robotathon.html">Robotathon</a>
                 <a class="dropdown-item" href="{{ site.baseurl }}/committees/curm.html">CURM</a>
                 <a class="dropdown-item" href="{{ site.baseurl }}/committees/igvc.html">IGVC</a>
-                <a class="dropdown-item" href="{{ site.baseurl }}/committees/region5.html">Region V</a>
+                <a class="dropdown-item" href="{{ site.baseurl }}/committees/region5.html">Region 5</a>
                 <a class="dropdown-item" href="{{ site.baseurl }}/committees/pacbot.html">Pacbot</a>
                 <a class="dropdown-item" href="{{ site.baseurl }}/committees/demobots.html">Demobots</a>
             </div>
@@ -29,7 +29,7 @@
                 <a class="dropdown-item" href="{{ site.baseurl }}/blog.html">Everything</a>
                 <div class="dropdown-divider"></div>
                 {% for post in site.posts %}
-                <a class="dropdown-item" href="{{ post.url }}">{{ post.title }}</a>
+                <a class="dropdown-item" href="{{ post.url }}">{{ post.title }} ({{ post.date | date_to_string }})</a>
                 {% endfor %}
             </div>
         </li>
