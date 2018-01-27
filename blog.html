@@ -1,0 +1,16 @@
+---
+layout: default
+title: Blog
+---
+
+<div class="container">
+<ul>
+    {% for post in site.posts %}
+    <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+        <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
+        <p>{{ post.excerpt }}</td>
+    </li>
+    {% endfor %}
+</ul>
+</div>

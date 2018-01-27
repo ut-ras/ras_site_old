@@ -3,26 +3,35 @@ layout: default
 title: Contact
 ---
 
-<div class="row"><div class="large-12 columns">
-    <h2><a class="bodyLink" href={{ site.data.contact.mailing_list }}>Join our mailing list</a></h2>
-  <p>Find out about local robotics news and about opportunities for you to get involved with robotics.
-  <h2>Officers</h2>
-    <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
-    {% for officer in site.data.contact.members %}
+<h2>Join us!</h2>
 
-      <!-- <article> -->
-        <li class="large-12 columns">
-            <hgroup>
-              <img src="{{ site.baseurl }}/static/images/leaders/{{ officer.head_shot }}"
-                   alt="Picture of {{ officer.title }}"/>
-              <h4>{{ officer.name }}</h4>
-              <h6><span class="title">{{ officer.title }}</span></h6>
-              <h7><span class="email">{{ officer.email }}</span></h7><p>
-            </hgroup>
-      <br />
-        </li>
-      <!-- </article> -->
+<p>
+Want to join RAS? The best way to get started is to come to one of our biweekly
+<a href="{{ site.baseurl }}/calendar.html">general meetings</a> and talk to
+a RAS officer afterward.
+</p>
+<p>
+Also feel free to stop by our office in <a href="https://maps.utexas.edu/buildings/utm/eer">EER</a> 0.822A.
+</p>
+<p>
+Most of our internal communication happens in Slack. Once you've joined,
+you can sign up for Slack at <a href="https://utras.slack.com">utras.slack.com</a> with
+your @utexas.edu email addess.
+</p>
+<p>
+You might also sign up for our mailing list <a href="https://docs.google.com/forms/d/e/1FAIpQLSe0UKq4EjFoPRdjCAsLtgMJrhi7_t5xMwmH4glW8-Jhbch8IA/viewform?c=0&w=1">here</a> for occasional announcements - mostly meeting reminders, honestly.
+</p>
 
+<h2>Spring 2018 Officers</h2>
+
+<div class="card-columns">
+    {% for leader in site.data.contact.leaders %}
+    <div class="card border-light">
+        <img class="card-img-top" src="{{ site.baseurl }}/resources/contact/{{ leader.picture }}" alt="picture of {{ leader.name }}">
+        <div class="card-body">
+        <h5 class="card-title">{{ leader.name }}</h5>
+        <p class="card-text">{{ leader.title }}</p>
+        <p class="card-text">{{ leader.email }}</p>
+    </div></div>
     {% endfor %}
-    </ul>
 </div>

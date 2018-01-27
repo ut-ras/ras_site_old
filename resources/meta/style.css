@@ -1,0 +1,132 @@
+html,body { background-color: #fbfbfb; }
+
+.button, button { border-color:#000; background-color:#333; }
+
+.logo { margin-top:20px; }
+
+button:hover, button:focus, .button:hover, .button:focus {
+	background-color: #666;
+}
+
+button:hover, button:focus, .button:hover, .button:focus {
+    color: white;
+}
+
+
+a {color:#333;}
+a:hover {
+	color:#ccc;
+}
+
+.contact a {
+	font-size: .75em;
+}
+li.active .button, li.active button { 
+	color:#666;
+	background-color:#f0f0f0;
+}
+
+.contactName {
+    position: relative;
+    padding: 0;
+    width:100%;
+    display:block;
+}
+.text {
+	font-size: .85em;
+    position: absolute;
+    top: 0;
+    color:#ffffff;
+    background-color:rgba(102,102,102,0.8);
+    width: 100%;
+    height: 100%;
+    line-height:100px;
+    text-align: center;
+    z-index: 10;
+    opacity: 0;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}
+.text:hover {
+    opacity:1;
+}
+
+code {
+  margin: 0;
+  padding: 0;
+  font-family: "Inconsolata", Monaco, monospace;
+  font-size: 15px;
+  color: #eeeeee;
+  text-shadow: 0 1px 0 #000;
+  border-radius: 2px;
+  overflow-y: hidden;
+  display: block;
+  padding: 0.8em;
+  overflow-x: auto;
+  line-height: 1.45em;
+}
+
+pre {
+  background: #333333;
+  border: 1px solid #111111;
+  border-radius: 2px;
+  box-shadow: inset 0 1px 3px rgba(0,0,0,0.3);
+  overflow: auto;
+  overflow-y: hidden;
+  padding: 8px 15px;
+}
+
+img {
+    z-index:1;
+}
+
+.icon-comments, .icon-group, .icon-heart {
+	color:#cc5500;
+}
+
+.homeOpt {
+	text-align: center;
+}
+ul { overflow:hidden; list-style-type:none } //clear internal float and remove bullet
+li a img { display: inline;}
+
+.title {
+	font-weight:bold;
+	color:#cc5500;
+}
+
+.orbit-slides-container img {width:100%;}
+
+.bodyLink {
+    color:#c50;
+    /*text-decoration: underline;*/
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: lighter;
+    color:#333;
+}
+
+body, a, p, h1, h2, h3, h4, h5, h6, span {
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+.Collage{
+    padding:10px;
+}
+
+.Collage img {
+     filter: gray; 
+    -webkit-filter: grayscale(100%);
+    margin:0;
+    padding:0;
+    display:inline-block;
+    vertical-align:bottom;
+    opacity:1;
+    border:5px solid #eee;
+}
+
+.Collage img:hover { filter: none; -webkit-filter: grayscale(0%); }

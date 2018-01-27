@@ -1,3 +1,0 @@
-AddType application/x-httpd-php .html .htm
-Redirect 301 /docs/curm.pdf /curm.html
-RedirectMatch 301 ^(.*/[^.]+)$ $1.html
