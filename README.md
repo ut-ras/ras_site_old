@@ -2,7 +2,7 @@ ras_site
 ========
 
 The official source for the official website of the UT Austin student branch of
-the IEEE Robotics & Automation Society.
+the IEEE Robotics & Automation Society [here](https://ras.ece.utexas.edu).
 
 This website uses Bootstrap 4.0 to look pretty.
 
