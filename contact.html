@@ -31,7 +31,8 @@ You might also sign up for our mailing list <a href="https://docs.google.com/for
         <div class="card-body">
         <h5 class="card-title">{{ leader.name }}</h5>
         <p class="card-text">{{ leader.title }}</p>
-        <p class="card-text">{{ leader.email }}</p>
+        <p class="card-text" id="{{ leader.picture }}">{{ leader.obsfucated_email }}</p>
+        <script>document.getElementById('{{ leader.picture }}').innerHTML="<a href=\"mailto:{{ leader.email }}\">{{ leader.email }}</a>"</script>
     </div></div>
     {% endfor %}
 </div>
