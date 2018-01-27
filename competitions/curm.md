@@ -1,7 +1,7 @@
 
 ## Date TBD, sometime in April
 
-#### [<span class="bodyLink">2016 CURM Rules</span>]({{ site.baseurl }}/static/curm2016.pdf)
+#### [<span class="bodyLink">(OLD) 2016 CURM Rules</span>]({{ site.baseurl }}/static/curm2016.pdf) - New 2018 rules will be out soon (but should be very similar)!
 
 CURM is an annual robotics convention held at the University of Texas at
 Austin by the UT Robotics and Automation Society (RAS). It is open to
@@ -17,14 +17,14 @@ participants.
 
 ### Competition
 
-Competition will be held in the late spring semester, date and location TBD.
+Competition will be held in the late 2018 spring semester, date and location TBD.
 Come show off your robot or watch the competition!
 
 ## Frequently Asked Questions
 
 #### Do I have to be a UT student to participate/attend?
 
-No, CURM2017 is open to anyone. If you would like to participate, all
+No, CURM2018 is open to anyone. If you would like to participate, all
 you have to do is fill out the interest form. If you just want to attend,
 no registration is required.
 
@@ -45,7 +45,7 @@ use wheels too, so this rule is not perfect. Do some research to find out if
 someone else has done it before. Even if your idea is similar, implementing it
 is a unique way can make a great entry.
 
-#### I have another project that deals with robotic movement that I think would qualify. Can I enter it even if it wasn't built specifically for CURM2016?
+#### I have another project that deals with robotic movement that I think would qualify. Can I enter it even if it wasn't built specifically for CURM2018?
 
 Yes, as long as it is your own creation, you can share it at CURM2016.
 
@@ -65,5 +65,5 @@ for announcements regarding these events.
 #### Something else?
 
 For any questions, concerns, or clarifications, feel free to ask people in the
-RAS office (EER TBD) or contact us on Slack. Whether you have an idea and no
+RAS office (EER 0.822C) or contact us on Slack. Whether you have an idea and no
 idea how to tackle it, or vice-versa, people in RAS will be happy to help.

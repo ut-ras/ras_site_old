@@ -49,8 +49,8 @@ members:
     head_shot: daniel.jpg
 
   - title: Special Events Coordinator
-    name: Mark Jennings (at) utlists.utexas.edu
-    email: ras_special_events
+    name: Mark Jennings
+    email: ras_special_events (at) utlists.utexas.edu
     head_shot: mark.jpg
 
   - title: Representative Coordinator
@@ -66,6 +66,7 @@ members:
   - title: Robotathon Head
     name: Isabel Cachola
     email: 
+    head_shot: isabel.jpg
 
   - title: Demobots Head
     name: Cole Thompson
