@@ -31,8 +31,12 @@ You might also sign up for our mailing list <a href="https://docs.google.com/for
         <div class="card-body">
         <h5 class="card-title">{{ leader.name }}</h5>
         <p class="card-text">{{ leader.title }}</p>
-        <p class="card-text" id="{{ leader.picture }}">{{ leader.obsfucated_email }}</p>
-        <script>document.getElementById('{{ leader.picture }}').innerHTML="<a href=\"mailto:{{ leader.email }}\">{{ leader.email }}</a>"</script>
+        <p class="card-text" id="{{ leader.picture }}">{{ leader.email_name }}{{ leader.email_obsfucator }}{{ leader.email_domain }}</p>
+        <script>document.getElementById('{{ leader.picture }}').innerHTML=
+            "<a href=\"mailto:{{ leader.email_name }}".concat("@{{ leader.email_domain }}\">{{ leader.email_name }}").concat(
+            "@{{ leader.email_domain }}</a>");
+                if("{{ leader.email_name }}"=="no_email"){var element = document.getElementById('{{ leader.picture }}');
+                element.parentNode.removeChild(element);}</script>
     </div></div>
     {% endfor %}
 </div>

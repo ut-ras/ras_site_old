@@ -1,92 +1,104 @@
 leaders:
   - title: President
     name: Brian Wilmarth
-    obsfucated_email: ras_president (at) utlists.utexas.edu
-    email: ras_president@utlists.utexas.edu
+    email_name: ras_president
+    email_obsfucator: (at)
+    email_domain: utlists.utexas.edu
     picture: brian.jpg
 
   - title: Vice President & R5 Head
     name: Meera Wakim
-    obsfucated_email: ras_vice_president (at) utlists.utexas.edu
-    email: ras_vice_president@utlists.utexas.edu
+    email_name: ras_vice_president
+    email_obsfucator: (at)
+    email_domain: utlists.utexas.edu
     picture: meera.jpg
 
   - title: Treasurer
     name: Hank Freeman
-    obsfucated_email: ras_treasury (at) utlists.utexas.edu
-    email: ras_treasury@utlists.utexas.edu
+    email_name: ras_treasury
+    email_obsfucator: (at)
+    email_domain: utlists.utexas.edu
     picture: hank.jpg
 
   - title: Corporate Relations & CURM Head 
     name: Chris Gill
-    obsfucated_email: ras_corporate (at) utlists.utexas.edu
-    email: ras_corporate@utlists.utexas.edu
+    email_name: ras_corporate
+    email_obsfucator: (at)
+    email_domain: utlists.utexas.edu
     picture: chris.jpg
 
   - title: Fundraising Coordinator
     name: Miguel Salinas
-    obsfucated_email: ras_fundraising (at) utlists.utexas.edu
-    email: ras_fundraising@utlists.utexas.edu
+    email_name: ras_fundraising
+    email_obsfucator: (at)
+    email_domain: utlists.utexas.edu
     picture: miguel.jpg
 
   - title: Outreach Coordinator
     name: Vamsi Ghorakavi
-    obsfucated_email: ras_outreach (at) utlists.utexas.edu
-    email: ras_outreach@utlists.utexas.edu
+    email_name: ras_outreach
+    email_obsfucator: (at)
+    email_domain: utlists.utexas.edu
     picture: vamsi.jpg
 
   - title: Secretary
     name: Amr El-Azizi
-    obsfucated_email: ras_secretary (at) utlists.utexas.edu
-    email: ras_secretary@utlists.utexas.edu
+    email_name: ras_secretary
+    email_obsfucator: (at)
+    email_domain: utlists.utexas.edu
     picture: amr.jpg
 
   - title: Historian
     name: Zahin Nambiar
-    obsfucated_email: ras_historian (at) utlists.utexas.edu
-    email: ras_historian@utlists.utexas.edu
+    email_name: ras_historian
+    email_obsfucator: (at)
+    email_domain: utlists.utexas.edu
     picture: zahin.jpg
 
   - title: Webmaster
     name: Daniel Teal
-    obsfucated_email: ras_webmaster (at) utlists.utexas.edu
-    email: ras_webmaster@utlists.utexas.edu
+    email_name: ras_webmaster
+    email_obsfucator: (at)
+    email_domain: utlists.utexas.edu
     picture: daniel.jpg
 
   - title: Special Events Coordinator
     name: Mark Jennings
-    obsfucated_email: ras_special_events (at) utlists.utexas.edu
-    email: ras_special_events@utlists.utexas.edu
+    email_name: ras_special_events
+    email_obsfucator: (at)
+    email_domain: utlists.utexas.edu
     picture: mark.jpg
 
   - title: Representative Coordinator
     name: Junlin (Steven) Zhu
-    obsfucated_email: ras_rep_coordinator (at) utlists.utexas.edu
-    email: ras_rep_coordinator@utlists.utexas.edu
+    email_name: ras_rep_coordinator
+    email_obsfucator: (at)
+    email_domain: utlists.utexas.edu
     picture: steven.jpg
 
   - title: Publicity Coordinator
     name: Dahlia Lopez
-    obsfucated_email: ras_publicity (at) utlists.utexas.edu
-    email: ras_publicity@utlists.utexas.edu
+    email_name: ras_publicity
+    email_obsfucator: (at)
+    email_domain: utlists.utexas.edu
     picture: dahlia.jpg
 
   - title: Robotathon Head
     name: Isabel Cachola
-    email: 
+    email_name: no_email
     picture: isabel.jpg
 
   - title: Demobots Head
     name: Cole Thompson
-    email: 
+    email_name: no_email
     picture: cole.jpg
 
   - title: IGVC Head
     name: Ricky Chen
-    email: 
+    email_name: no_email
     picture: ricky.jpg
 
   - title: Pacbot Head
     name: Rahul Butani
-    email: 
+    email_name: no_email
     picture: rahul.jpg
