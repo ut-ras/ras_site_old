@@ -1,6 +1,6 @@
 ---
 layout: post
-imagepath: static/images/blog/2015-11-06-primavera
+imagepath: resources/blog/2015-11-06-primavera
 title: Primavera
 ---
 

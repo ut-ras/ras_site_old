@@ -1,6 +1,6 @@
 ---
 layout: post
-imagepath: static/images/blog/2016-01-29-robotathon-recap
+imagepath: resources/blog/2016-01-29-robotathon-recap
 title: Robotathon Recap!
 ---
 
