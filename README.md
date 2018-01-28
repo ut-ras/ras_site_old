@@ -11,4 +11,4 @@ This website uses Bootstrap 4.0 to look pretty.
 This website is statically built using [Jekyll](https://jekyllrb.com/). Quick
 start: install Jekyll, then run "jekyll serve" in the main directory. The site
 will be compiled to the directory "_site" while Jekyll locally hosts the site
-at 127.0.0.1:4000.
+at 127.0.0.1:4000/ras_site/ (the ras_site suffix is used by GitHub pages).
