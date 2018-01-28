@@ -29,7 +29,7 @@
                 <a class="dropdown-item" href="{{ site.baseurl }}/blog.html">Everything</a>
                 <div class="dropdown-divider"></div>
                 {% for post in site.posts %}
-                <a class="dropdown-item" href="{{ post.url }}">{{ post.title }} ({{ post.date | date_to_string }})</a>
+                <a class="dropdown-item" href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }} ({{ post.date | date_to_string }})</a>
                 {% endfor %}
             </div>
         </li>
