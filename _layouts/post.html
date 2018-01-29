@@ -4,5 +4,52 @@ layout: default
 
 <div class="container">
 <style>img{max-width: 100%;}</style>
+
+<div class="row">
+    <div class="col" class="text-left">
+    {% if page.previous.url %}
+        <a href="{{ site.baseurl}}{{ page.previous.url }}">← {{ page.previous.title }}</a>
+    {% endif %}
+    </div>
+    <div class="col text-right">
+    {% if page.next.url %}
+        <a href="{{ site.baseurl }}{{ page.next.url }}">{{ page.next.title }} →</a>
+    {% endif %}
+    </div>
+</div>
+
+<h1>{{ page.title }}</h1>
+<p><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</time></p>
+
 {{ content }}
+
+<div class="row">
+    <div class="col" class="text-left">
+    {% if page.previous.url %}
+        <a href="{{ site.baseurl}}{{ page.previous.url }}">← {{ page.previous.title }}</a>
+    {% endif %}
+    </div>
+    <div class="col text-right">
+    {% if page.next.url %}
+        <a href="{{ site.baseurl }}{{ page.next.url }}">{{ page.next.title }} →</a>
+    {% endif %}
+    </div>
+</div>
+
+<hr/>
+{% if site.related_posts != empty %}
+    <aside>
+    <h4>Related Posts</h4>
+    <ul>
+        {% for post in site.related_posts limit:4 %}
+        {% if post.url != page.url %} 
+        <li><a href="{{ site.baseurl }}{{ post.url }}">
+            {{ post.title }} - <small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time></small>
+        </li>
+        {% endif %}
+        {% endfor %}
+    </ul>
+    </aside>
+{% endif %}
+
 </div>

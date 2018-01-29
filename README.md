@@ -12,3 +12,6 @@ This website is statically built using [Jekyll](https://jekyllrb.com/). Quick
 start: install Jekyll, then run "jekyll serve" in the main directory. The site
 will be compiled to the directory "_site" while Jekyll locally hosts the site
 at 127.0.0.1:4000/ras_site/ (the ras_site suffix is used by GitHub pages).
+
+Related posts are calculated via Jekyll's latent semantic indexing. For this
+to work properly, Jekyll claims it requires the "classifier-reborn" Ruby gem.
