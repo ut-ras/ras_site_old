@@ -4,6 +4,9 @@ ras_site
 The official source for the official website of the UT Austin student branch of
 the IEEE Robotics & Automation Society [here](https://ras.ece.utexas.edu).
 
+For the time being, the gh-pages test branch of this website is hosted
+[here](https://ut-ras.github.io/ras_site/index.html).
+
 This website uses Bootstrap 4.0 to look pretty.
 
 ### Building
