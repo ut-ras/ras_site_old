@@ -8,9 +8,8 @@ title: Blog
     <tbody>
     {% for post in site.posts %}
     <tr>
-        <td><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></td>
         <td><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time></td>
-        <td><p>{{ post.excerpt }}</p></td>
+        <td><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><p>{{ post.excerpt }}</p></td>
     </tr>
     {% endfor %}
     </tbody>

@@ -2,10 +2,13 @@
 layout: post
 imagepath: resources/blog/2015-11-06-primavera
 title: Primavera
+shorttitle: 2015 - Primavera
 ---
 
 Primavera is the image processing component of the painting robot project RAS in
-involved in, called Robotticelli.  Several of us have been working on primavera
+involved in, called Robotticelli.
+
+Several of us have been working on primavera
 for about a month now, and it's starting to approach something useful.  We'll
 take you through our process, but first a quick introduction to Robotticelli.
 

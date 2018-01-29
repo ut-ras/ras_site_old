@@ -2,10 +2,13 @@
 layout: post
 imagepath: resources/blog/2016-01-29-robotathon-recap
 title: Robotathon Recap!
+shorttitle: 2016 - Robotathon
 ---
 
 This year’s Robotathon wrapped up this past November with amazing showings from
-all of our teams. This years challenge was RASBall, a competition requiring your
+all of our teams.
+
+This years challenge was RASBall, a competition requiring your
 robot to sort ping-pong balls and marbles into two separate goals. The rules for
 the competition can be found here. We had an amazing turn out this year with
 over 100 students, in 17 teams, participating in the competition. Most of the

@@ -1,11 +1,14 @@
 ---
 layout: post
 title: Year in Review
+shorttitle: 2015 - Year in Review
 ---
 
 The University of Texas at Austin chapter of the IEEE Robotics and Automation
 Society serves a diverse community of students consisting primarily of
-Electrical Engineering, Mechanical Engineering, and Computer Science majors. Our
+Electrical Engineering, Mechanical Engineering, and Computer Science majors.
+
+Our
 students are enthusiastically driven to incorporate and apply their classroom
 knowledge in real world settings. Our purpose is to educate and promote STEM in
 the rapidly growing fields of robotics and automation. We do so by providing
