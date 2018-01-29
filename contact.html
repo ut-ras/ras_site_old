@@ -24,9 +24,9 @@ You might also sign up for our mailing list <a href="https://docs.google.com/for
 
 <h2>Spring 2018 Officers</h2>
 
-<div class="card-columns">
+<div class="card-deck">
     {% for leader in site.data.contact.leaders %}
-    <div class="card border-light">
+    <div class="card border-light" style="flex-basis: 20%">
         <img class="card-img-top" src="{{ site.baseurl }}/resources/contact/{{ leader.picture }}" alt="picture of {{ leader.name }}">
         <div class="card-body">
         <h5 class="card-title">{{ leader.name }}</h5>
