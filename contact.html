@@ -29,19 +29,24 @@ You might also sign up for our mailing list <a href="https://docs.google.com/for
 
 <h2>Spring 2018 Officers</h2>
 
+{% for leader in site.data.contact.leaders %}
+{% assign index = forloop.index0 | modulo: 4 %}
+{% if index == 0 %}
 <div class="card-deck">
-    {% for leader in site.data.contact.leaders %}
-    <div class="card border-light" style="flex-basis: 20%">
+{% endif %}
+    <div class="card m-3">
         <img class="card-img-top" src="{{ site.baseurl }}/resources/contact/{{ leader.picture }}" alt="picture of {{ leader.name }}">
         <div class="card-body">
         <h5 class="card-title">{{ leader.name }}</h5>
         <p class="card-text">{{ leader.title }}</p>
-        <p class="card-text" id="{{ leader.picture }}">{{ leader.email_name }}{{ leader.email_obsfucator }}{{ leader.email_domain }}</p>
+        <p class="card-text text-truncate"><small id="{{ leader.picture }}">{{ leader.email_name }}{{ leader.email_obsfucator }}{{ leader.email_domain }}</small></p>
         <script>document.getElementById('{{ leader.picture }}').innerHTML=
             "<a href=\"mailto:{{ leader.email_name }}".concat("@{{ leader.email_domain }}\">{{ leader.email_name }}").concat(
             "@{{ leader.email_domain }}</a>");
                 if("{{ leader.email_name }}"=="no_email"){var element = document.getElementById('{{ leader.picture }}');
                 element.parentNode.removeChild(element);}</script>
     </div></div>
-    {% endfor %}
+{% if index == 3 %}
 </div>
+{% endif %}
+{% endfor %}
