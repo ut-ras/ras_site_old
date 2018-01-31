@@ -34,7 +34,7 @@ You might also sign up for our mailing list <a href="https://docs.google.com/for
 {% if index == 0 %}
 <div class="card-deck">
 {% endif %}
-    <div class="card m-3">
+    <div class="card m-3" id="{{ leader.title }}">
         <img class="card-img-top" src="{{ site.baseurl }}/resources/contact/{{ leader.picture }}" alt="picture of {{ leader.name }}">
         <div class="card-body">
         <h5 class="card-title">{{ leader.name }}</h5>
