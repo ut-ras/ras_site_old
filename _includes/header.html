@@ -28,9 +28,11 @@
             <div class="dropdown-menu">
                 <a class="dropdown-item" href="{{ site.baseurl }}/blog.html">Everything</a>
                 <div class="dropdown-divider"></div>
-                {% for post in site.posts %}
+                {% for post in site.posts limit:10 %}
                 <a class="dropdown-item" href="{{ site.baseurl }}{{ post.url }}">{{ post.shorttitle }}</a>
                 {% endfor %}
+                <div class="dropdown-divider"></div>
+                <a class="dropdown-item" href="{{ site.baseurl }}/blog.html">More ...</a>
             </div>
         </li>
         </ul>
