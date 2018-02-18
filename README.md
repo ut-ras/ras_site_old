@@ -15,3 +15,9 @@ at 127.0.0.1:4000.
 
 Related posts are calculated via Jekyll's latent semantic indexing. For this
 to work properly, Jekyll claims it requires the "classifier-reborn" Ruby gem.
+
+### Tips
+
+Jekyll is scripted in the [Liquid](https://jekyllrb.com/docs/templates/)
+templating language. A good Liquid cheatsheet may be found
+[here](https://gist.github.com/JJediny/a466eed62cee30ad45e2).
