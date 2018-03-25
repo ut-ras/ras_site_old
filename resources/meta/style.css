@@ -11,5 +11,3 @@ a, a:hover, .icon { color: #bf5700; }
 .card-hover:hover { background-color: #000000; opacity: 0.1; }
 /* those lines were too thin */
 hr { border-top: 1px solid #cccccc; }
-/* no bullets */
-ul { list-style-type: none; }
