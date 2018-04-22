@@ -34,16 +34,16 @@ You might also sign up for our mailing list <a href="https://docs.google.com/for
 {% if index == 0 %}
 <div class="card-deck">
 {% endif %}
-    <div class="card m-3" id="{{ leader.title }}">
+    <div class="card m-3">
         <img class="card-img-top" src="{{ site.baseurl }}/resources/contact/{{ leader.picture }}" alt="picture of {{ leader.name }}">
         <div class="card-body">
         <h5 class="card-title">{{ leader.name }}</h5>
         <p class="card-text">{{ leader.title }}</p>
-        <p class="card-text text-truncate" id="{{ leader.picture }}"{{ leader.email_name }}<br/>{{ leader.email_obsfucator }}{{ leader.email_domain }}</p>
-        <script>document.getElementById('{{ leader.picture }}').innerHTML=
+        <p class="card-text text-truncate" id="{{ leader.title }}">{{ leader.email_name }}{{ leader.email_obsfucator }}{{ leader.email_domain }}</p>
+        <script>document.getElementById('{{ leader.title }}').innerHTML=
             "<a href=\"mailto:{{ leader.email_name }}".concat("@{{ leader.email_domain }}\">{{ leader.email_name }}").concat(
             "<br/>@{{ leader.email_domain }}</a>");
-                if("{{ leader.email_name }}"=="no_email"){var element = document.getElementById('{{ leader.picture }}');
+                if("{{ leader.email_name }}"=="no_email"){var element = document.getElementById('{{ leader.title }}');
                 element.parentNode.removeChild(element);}</script>
     </div></div>
 {% if index == 3 %}
