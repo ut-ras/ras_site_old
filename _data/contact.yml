@@ -39,66 +39,66 @@ leaders:
     email_name: ras_outreach
     email_obsfucator: (at)
     email_domain: utlists.utexas.edu
-    picture: blank.png
+    picture: chad.jpg
 
   - title: Secretary
     name: Nick Duggar
     email_name: ras_secretary
     email_obsfucator: (at)
     email_domain: utlists.utexas.edu
-    picture: blank.png
+    picture: nick.jpg
 
   - title: Historian
     name: Bibartan Jha
     email_name: ras_historian
     email_obsfucator: (at)
     email_domain: utlists.utexas.edu
-    picture: blank.png
+    picture: bibartan.jpg
 
-  - title: Webmaster
+  - title: Webmaster & Robotathon Head
     name: Daniel Teal
     email_name: ras_webmaster
     email_obsfucator: (at)
     email_domain: utlists.utexas.edu
     picture: daniel.jpg
 
-  - title: Special Events Coordinator
+  - title: Special Events Coordinator & CURM Head
     name: Mark Jennings
     email_name: ras_special_events
     email_obsfucator: (at)
     email_domain: utlists.utexas.edu
     picture: mark.jpg
 
-  - title: Representative Coordinator
-    name: (currently vacant)
+  - title: (Acting) Representative Coordinator
+    name: Megan Nguyen
     email_name: ras_rep_coordinator
     email_obsfucator: (at)
     email_domain: utlists.utexas.edu
-    picture: blank.png
+    picture: megan.jpg
 
   - title: Publicity Coordinator
     name: Janine Bariuan
     email_name: ras_publicity
     email_obsfucator: (at)
     email_domain: utlists.utexas.edu
-    picture: blank.png
-
-  - title: Robotathon Head
-    name: Isabel Cachola
-    email_name: no_email
-    picture: isabel.jpg
+    picture: janine.jpg
 
   - title: Demobot Head
     name: Cole Thompson
     email_name: no_email
     picture: cole.jpg
 
-  - title: IGVC Head
-    name: Ricky Chen
+  - title: Micromouse Head
+    name: Vamsi Butani
     email_name: no_email
-    picture: ricky.jpg
+    picture: vamsi.jpg
 
-  - title: Pacbot Head
-    name: Rahul Butani
+  - title: Region 5 Head
+    name: Lauren Traster
     email_name: no_email
-    picture: rahul.jpg
+    picture: blank.png
+
+  - title: Region 5 Head
+    name: Ben Belov
+    email_name: no_email
+    picture: blank.png
