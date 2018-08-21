@@ -8,7 +8,7 @@ set -o errexit
 
 _die () { err_code=$1; shift 1; echo $@ >&2; exit $err_code; }
 
-jekyll build || _die 1 "Failed to generate website"
+#jekyll build || _die 1 "Failed to generate website"
 rsync -rlz --delete --partial --info=progress2 -e "ssh" _site/* \
     ${UTWEB_USER}@panel.utweb.utexas.edu:/home/utweb/utw10091/public_html || \
     _die 2 "Failed to upload website"
