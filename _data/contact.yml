@@ -55,21 +55,21 @@ leaders:
     email_domain: utlists.utexas.edu
     picture: bibartan.jpg
 
-  - title: Webmaster & Robotathon Head
+  - title: Webmaster
     name: Daniel Teal
     email_name: ras_webmaster
     email_obsfucator: (at)
     email_domain: utlists.utexas.edu
     picture: daniel.jpg
 
-  - title: Special Events Coordinator & CURM Head
+  - title: Special Events Coordinator
     name: Mark Jennings
     email_name: ras_special_events
     email_obsfucator: (at)
     email_domain: utlists.utexas.edu
     picture: mark.jpg
 
-  - title: (Acting) Representative Coordinator
+  - title: Representative Coordinator
     name: Megan Nguyen
     email_name: ras_rep_coordinator
     email_obsfucator: (at)
@@ -102,3 +102,25 @@ leaders:
     name: Ben Belov
     email_name: no_email
     picture: blank.png
+
+  - title: Robotathon Head
+    name: Daniel Teal
+    email_name: no_email
+    picture: daniel.jpg
+
+  - title: CURM Head
+    name: Christopher Zum Mallen
+    email_name: no_email
+    picture: blank.png
+
+  - title: 
+    name: 
+    email_name:
+    picture: empty.png
+
+  - title: 
+    name: 
+    email_name: 
+    picture: empty.png
+
+
