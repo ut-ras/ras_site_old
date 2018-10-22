@@ -25,7 +25,7 @@ leaders:
     email_name: ras_corporate
     email_obsfucator: (at)
     email_domain: utlists.utexas.edu
-    picture: blank.png
+    picture: maxim.jpg
 
   - title: Fundraising Coordinator
     name: Miguel Salinas
@@ -89,7 +89,7 @@ leaders:
     picture: cole.jpg
 
   - title: Micromouse Head
-    name: Vamsi Butani
+    name: Vamsi Ghorakavi
     email_name: no_email
     picture: vamsi.jpg
 
@@ -101,7 +101,7 @@ leaders:
   - title: Region 5 Head
     name: Ben Belov
     email_name: no_email
-    picture: blank.png
+    picture: ben.jpg
 
   - title: Robotathon Head
     name: Daniel Teal
@@ -111,7 +111,7 @@ leaders:
   - title: CURM Head
     name: Christopher Zum Mallen
     email_name: no_email
-    picture: blank.png
+    picture: christopher.jpg
 
   - title: 
     name: 
