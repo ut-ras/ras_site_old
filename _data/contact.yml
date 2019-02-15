@@ -42,18 +42,18 @@ leaders:
     picture: chad.jpg
 
   - title: Secretary
-    name: Nick Duggar
+    name: Reiko Corteza
     email_name: ras_secretary
     email_obsfucator: (at)
     email_domain: utlists.utexas.edu
-    picture: nick.jpg
+    picture: reiko.jpg
 
   - title: Historian
-    name: Bibartan Jha
+    name: Matthew Yu
     email_name: ras_historian
     email_obsfucator: (at)
     email_domain: utlists.utexas.edu
-    picture: bibartan.jpg
+    picture: matthew.jpg
 
   - title: Webmaster
     name: Daniel Teal
@@ -63,25 +63,18 @@ leaders:
     picture: daniel.jpg
 
   - title: Special Events Coordinator
-    name: Mark Jennings
+    name: Tanitoluwa Adebowale
     email_name: ras_special_events
     email_obsfucator: (at)
     email_domain: utlists.utexas.edu
-    picture: mark.jpg
-
-  - title: Representative Coordinator
-    name: Megan Nguyen
-    email_name: ras_rep_coordinator
-    email_obsfucator: (at)
-    email_domain: utlists.utexas.edu
-    picture: megan.jpg
+    picture: tanto.jpg
 
   - title: Publicity Coordinator
-    name: Janine Bariuan
+    name: Bibartan Jha
     email_name: ras_publicity
     email_obsfucator: (at)
     email_domain: utlists.utexas.edu
-    picture: janine.jpg
+    picture: bibartan.jpg
 
   - title: Demobot Head
     name: Cole Thompson
@@ -113,14 +106,19 @@ leaders:
     email_name: no_email
     picture: christopher.jpg
 
-  - title: 
-    name: 
+  - title:
+    name:
+    email_name:
+    email_obsfucator:
+    email_domain:
+    picture: empty.png
+
+  - title:
+    name:
     email_name:
     picture: empty.png
 
-  - title: 
-    name: 
-    email_name: 
+  - title:
+    name:
+    email_name:
     picture: empty.png
-
-
