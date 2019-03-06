@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Micromouse UpdateLectures
+title: Micromouse Update
 imagepath: resources/blog/2019-03-06-micromouse
 shorttitle: 2019 - Micromouse
 ---
