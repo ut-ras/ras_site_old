@@ -1,117 +1,115 @@
 leaders:
   - title: President
-    name: Amr El-Azizi
+    name: Chad Harthan
     email_name: ras_president
     email_obsfucator: (at)
     email_domain: utlists.utexas.edu
-    picture: amr.jpg
+    picture: Chad_Harthan.JPG
 
   - title: Vice President
-    name: Zahin Nambiar
+    name: Reiko Corteza
     email_name: ras_vice_president
     email_obsfucator: (at)
     email_domain: utlists.utexas.edu
-    picture: zahin.jpg
+    picture: Reiko_Corteza.JPG
 
   - title: Treasurer
-    name: Miguel Salinas
+    name: Ben Belov
     email_name: ras_treasury
     email_obsfucator: (at)
     email_domain: utlists.utexas.edu
-    picture: miguel.jpg
+    picture: Ben_Belov.JPG
 
   - title: Corporate Relations
-    name: Maxim Gurevich
+    name: Xinyi Zhu
     email_name: ras_corporate
     email_obsfucator: (at)
     email_domain: utlists.utexas.edu
-    picture: maxim.jpg
+    picture: Xinyi_Zhu.JPG
 
-  - title: Fundraising Coordinator
-    name: Miguel Salinas
-    email_name: ras_fundraising
-    email_obsfucator: (at)
-    email_domain: utlists.utexas.edu
-    picture: miguel.jpg
+  # - title: Fundraising Coordinator
+  #   name: Miguel Salinas
+  #   email_name: ras_fundraising
+  #   email_obsfucator: (at)
+  #   email_domain: utlists.utexas.edu
+  #   picture: miguel.JPG
 
   - title: Outreach Coordinator
-    name: Chad Harthan
+    name: Burak Biyikli
     email_name: ras_outreach
     email_obsfucator: (at)
     email_domain: utlists.utexas.edu
-    picture: chad.jpg
+    picture: blank.png
 
-  - title: Secretary
-    name: Reiko Corteza
-    email_name: ras_secretary
+  - title: Secretary, Publicity Coordinator
+    name: Ian Krause
+    email_name: ras_secretary or ras_publicity
     email_obsfucator: (at)
     email_domain: utlists.utexas.edu
-    picture: reiko.jpg
+    picture: Ian_Krause.JPG
 
-  - title: Historian
+  - title: Historian, Webmaster
     name: Matthew Yu
-    email_name: ras_historian
+    email_name: ras_historian or ras_webmaster
     email_obsfucator: (at)
     email_domain: utlists.utexas.edu
-    picture: matthew.jpg
+    picture: Matthew_Yu.JPG
 
-  - title: Webmaster
-    name: Daniel Teal
-    email_name: ras_webmaster
-    email_obsfucator: (at)
-    email_domain: utlists.utexas.edu
-    picture: daniel.jpg
+  # - title: Webmaster
+  #   name: Matthew Yu
+  #   email_name: ras_webmaster
+  #   email_obsfucator: (at)
+  #   email_domain: utlists.utexas.edu
+  #   picture: Matthew_Yu.JPG
 
   - title: Special Events Coordinator
     name: Tanitoluwa Adebowale
     email_name: ras_special_events
     email_obsfucator: (at)
     email_domain: utlists.utexas.edu
-    picture: tanto.jpg
+    picture: Tanitoluwa_Adebowale.JPG
 
-  - title: Publicity Coordinator
-    name: Bibartan Jha
-    email_name: ras_publicity
-    email_obsfucator: (at)
-    email_domain: utlists.utexas.edu
-    picture: bibartan.jpg
+  # - title: Publicity Coordinator
+  #   name: Ian Krause
+  #   email_name: ras_publicity
+  #   email_obsfucator: (at)
+  #   email_domain: utlists.utexas.edu
+  #   picture: Ian_Krause.JPG
 
   - title: Demobot Head
-    name: Cole Thompson
+    name: Zahin Nambiar
     email_name: no_email
-    picture: cole.jpg
+    picture: zahin.jpg
 
   - title: Micromouse Head
-    name: Vamsi Ghorakavi
-    email_name: no_email
-    picture: vamsi.jpg
-
-  - title: Region 5 Head
-    name: Lauren Traster
+    name: Joseph Ryan
     email_name: no_email
     picture: blank.png
 
   - title: Region 5 Head
-    name: Ben Belov
+    name: Ramsey Green
     email_name: no_email
-    picture: ben.jpg
+    picture: blank.png
 
   - title: Robotathon Head
-    name: Daniel Teal
+    name: Amr El-Azizi
     email_name: no_email
-    picture: daniel.jpg
+    picture: amr.jpg
 
-  - title: CURM Head
-    name: Christopher Zum Mallen
+  # - title: CURM Head
+  #   name: Christopher Zum Mallen
+  #   email_name: no_email
+  #   picture: christopher.JPG
+
+  - title: Robosub Co-head
+    name: Joshua Johnson
     email_name: no_email
-    picture: christopher.jpg
+    picture: blank.png
 
-  - title:
-    name:
-    email_name:
-    email_obsfucator:
-    email_domain:
-    picture: empty.png
+  - title: Robosub Co-head
+    name: Rahul Butani
+    email_name: no_email
+    picture: rahul.jpg
 
   - title:
     name:
