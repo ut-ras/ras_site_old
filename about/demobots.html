@@ -3,24 +3,30 @@ layout: default
 title: Demobots
 ---
 
-<h2>Demobots</h2>
+{% capture demobots_markdown %}
 
-<h5>Meetings: <b>F 5-6:30 PM (EER Makerspace 2nd Floor Robotics Room), Su 1-2:30 PM (EER 0.822)</b></h5>
+# Demobots
 
-<p>We're the non-competitive committee (mostly) in RAS, and if you've seen a couch drive by on campus you've met us before.</p>
-<p>We work on a bunch of different projects headed by many members of RAS, including:
-    <ul>
-        <li>The Couch</li>
-        <li>Autonomous Vehicle Projec (IGVC)</li>
-        <li>Polargraph Drawing Machine</li>
-        <li>Dancebot</li>
-    </ul>
-</p>
-<p>Interested members can propose their own project, and can use RAS resources to bring it to fruition. If you have a great idea, pitch it to Demobots and make a team!</p>
-<p>Beginners are recommended to join, as we teach all skills necessary. We are in particular need of Mechanical, Electrical, Computer and CS majors.</p>
-<p>For the IGVC team, we recommend having prior experience in robotics.</p>
-<p>We do also make the occasional <a href="{{ site.baseurl }}/blog.html">blog post</a>.
+### Meetings:
+* **F  5-6:30 PM** (EER Makerspace 2nd Floor Robotics Room and EER 0.822)
+* **Su 1-2:30 PM** (EER 0.822)
 
-<!-- <img class="d-block w-100" src="{{ site.baseurl }}/resources/about/" alt="second slide"> -->
+We're the non-competitive committee (mostly) in RAS, and if you've seen a couch drive by on campus, you've seen us!
 
-<p>Try looking for us at your nearest UT showcase. We're usually the part of RAS that showcases the work we've done at events such as Girl Day or Explore UT.</p>
+We work on a bunch of different projects headed by many members of RAS, including:
+* The Couchbot (Expecting to be recommissioned in Late February!)
+* [IGVC](http://www.igvc.org/) (Intelligent Ground Vehicle Competition)
+* Polargraph Drawing Machine
+* Dancebot
+
+Interested members can propose their own project, and can use RAS resources to bring it to fruition. If you have a great idea, pitch it to Demobots and make a team!
+
+Beginners are recommended to join, as we teach all skills necessary. We are in particular need of Mechanical, Electrical, Computer and CS majors.
+
+For the IGVC team, we recommend having prior experience in robotics, although it isn't necessary.
+
+We also make the occasional [blog post]({{ site.baseurl }}/blog.html).
+
+Try looking for us at your nearest UT showcase. Demobots is the more public arm of the group, and you can find us demoing our robots at events such as Gone to Engineering, Edison Lectures, Girl Day, and Explore UT.
+
+{% endcapture %}{{ demobots_markdown | markdownify }}
