@@ -4,7 +4,7 @@
 # assuming you have ssh permissions on the server.
 
 echo "Building site with Jekyll..."
-jekyll build
+# jekyll build
 echo "Done."
 echo -n "Please enter UT EID: "
 read utweb_user
