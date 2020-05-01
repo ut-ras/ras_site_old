@@ -3,21 +3,27 @@ layout: default
 title: Micromouse
 ---
 
-<h2>Micromouse</h2>
+{% capture micromouse_markdown %}
 
-<h5>Meetings: <b>Sa 8 PM (EER 0.822)</b></h5>
+# Micromouse
 
-<p>We make the tiny robots in RAS; bite-sized "mice" that race around with the zoomies. We prep for an annual competition down in California where we compete with other university students to explore and traverse a maze the fastest.</p>
-<p>Check us out if you want to do:
-    <ul>
-        <li>Board level and power/sensor system design</li>
-        <li>High speed control loops</li>
-        <li>Pathfinding and simulation</li>
-        <li>Electronics testing, soldering, and PCB design</li>
-    </ul>
-</p>
-<p>Students with previous robotics experience are recommended to join.</p>
+### Meetings:
+* **Sa 8:00 PM** (EER 0.822)
 
-<!-- <img class="d-block w-100" src="{{ site.baseurl }}/resources/about/" alt="second slide"> -->
+We make the tiny robots in RAS; bite-sized "mice" that race around with the zoomies. We prep for an annual competition down in California where we compete with other university students to explore and traverse a maze the fastest.
 
-<p>For a little more on what we do, check out the Wikipedia page <a href="https://en.wikipedia.org/wiki/Micromouse">here</a>!</p>
+Check us out if you want to do:
+
+* Board level and power/sensor system design
+
+* High speed control loops
+
+* Pathfinding, mazesolving, and control loops
+
+* Electronics testing, SMD soldering, and PCB design
+
+Students with previous robotics experience are highly recommended to join.
+
+For a little more on what we do, check out the Wikipedia page [here](https://en.wikipedia.org/wiki/Micromouse)!
+
+{% endcapture %}{{ micromouse_markdown | markdownify }}

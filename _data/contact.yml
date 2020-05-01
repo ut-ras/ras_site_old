@@ -21,11 +21,11 @@ leaders:
     picture: Ben_Belov.JPG
 
   - title: Corporate Relations
-    name: Xinyi Zhu
+    name: Chad Harthan
     email_name: ras_corporate
     email_obsfucator: (at)
     email_domain: utlists.utexas.edu
-    picture: Xinyi_Zhu.JPG
+    picture: Chad_Harthan.JPG
 
   # - title: Fundraising Coordinator
   #   name: Miguel Salinas
@@ -49,11 +49,11 @@ leaders:
     picture: Ian_Krause.JPG
 
   - title: Historian, Webmaster
-    name: Matthew Yu
+    name: Rosanna Rincon
     email_name: ras_historian or ras_webmaster
     email_obsfucator: (at)
     email_domain: utlists.utexas.edu
-    picture: Matthew_Yu.JPG
+    picture: Rosanna_Rincon.jpg
 
   # - title: Webmaster
   #   name: Matthew Yu
@@ -79,22 +79,27 @@ leaders:
   - title: Demobot Head
     name: Zahin Nambiar
     email_name: no_email
-    picture: zahin.jpg
+    picture: Zahin_Nambiar.jpg
 
   - title: Micromouse Head
     name: Joseph Ryan
     email_name: no_email
-    picture: blank.png
+    picture: Joseph_Ryan.jpg
 
   - title: Region 5 Head
     name: Ramsey Green
     email_name: no_email
-    picture: blank.png
+    picture: Ramsey_Green.JPG
 
-  - title: Robotathon Head
-    name: Amr El-Azizi
+  - title: Robotathon Co-head
+    name: Matthew Yu
     email_name: no_email
-    picture: amr.jpg
+    picture: Matthew_Yu.JPG
+
+  - title: Robotathon Co-head
+    name: Burak Biyikli
+    email_name: no_email
+    picture: blank.png
 
   # - title: CURM Head
   #   name: Christopher Zum Mallen
@@ -104,17 +109,12 @@ leaders:
   - title: Robosub Co-head
     name: Joshua Johnson
     email_name: no_email
-    picture: blank.png
+    picture: Joshua_Johnson.jpg
 
   - title: Robosub Co-head
     name: Rahul Butani
     email_name: no_email
-    picture: rahul.jpg
-
-  - title:
-    name:
-    email_name:
-    picture: empty.png
+    picture: Rahul_Butani.jpg
 
   - title:
     name:

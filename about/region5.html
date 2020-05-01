@@ -3,20 +3,34 @@ layout: default
 title: Region 5
 ---
 
-<h2>Region 5</h2>
+{% capture region5_markdown %}
 
-<h5>Meetings: <b>M 7-9 PM (ETC), Th 7-9 PM (RLM 7.114)</b></h5>
+# Region 5
 
-<p>We're friendly robot committee which has done a bunch of cool things, including a token collecting and sorting bot and a set of swarmbots.</p>
-<p>We work on a bunch of different systems in order to create a competitive robot. We highly recommend you check us out if you are interested in:
-    <ul>
-        <li>CAD (Solidworks) and Rapid prototyping</li>
-        <li>Algorithms and sensor fusion for path finding, task solving</li>
-        <li>C, C++, and Python for software and firmware</li>
-        <li>Electronics testing, soldering, and PCB design</li>
-    </ul>
-</p>
-<p>Beginners are recommended to join, as we teach all skills necessary. We are in particular need of Mechanical, Electrical, Computer and CS majors.</p>
-<p>We do also make the occasional <a href="{{ site.baseurl }}/blog.html">blog post</a>.
+### Meetings:
+* **F  6:30-8:30 PM** (Room announced on Slack/EER 0.822)
+* **Tu 8:00-10:00 PM** (Room announced on Slack/EER 0.822)
 
-<!-- <img class="d-block w-100" src="{{ site.baseurl }}/resources/about/" alt="second slide"> -->
+We're the neighborhood competitive robot committee which has done a bunch of cool things, including a token collecting and sorting bot and a set of swarmbots.
+
+This year, we are planning to compete in a litter competition - we need to build a robot that picks up and sorts trash, as well as try to stop a litterbug from literring!
+
+We work on a bunch of different systems in order to create a competitive robot. We highly recommend you check us out if you are interested in:
+
+* CAD (Solidworks) and rapid prototyping
+
+* Sensor fusion
+
+* Path finding
+
+* Object recognition and vision processing
+
+* Python for software and firmware
+
+* Electronics testing, soldering, and PCB design
+
+Beginners are highly recommended to join, as we teach all skills necessary. We are in particular need of Mechanical, Electrical, Computer and CS majors.
+
+We also make the occasional [blog post]({{ site.baseurl }}/blog.html).
+
+{% endcapture %}{{ region5_markdown | markdownify }}
