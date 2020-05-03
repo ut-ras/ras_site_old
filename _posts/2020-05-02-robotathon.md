@@ -8,7 +8,7 @@ Hey y'all, this is Matthew, co-head of Robotathon, here again. This is the secon
 
 Recently, we've gone through our semesterly meeting of hell and have secured funding for next semester's Robotathon.
 
-I thought it would be interesting to describe how RAS will organize the competition (and to document it somewhere, for personal reference), so I'll have a second post, labeled *Robotathon Steering Committee - How It's Made*, posted today or tomorrow detailing how we decided to allocate the money, what needs to be done to host a competition, and logistic challenges that past competitions have faced.
+I thought it would be interesting to describe how RAS will organize the competition (and to document it somewhere, for personal reference), so I'll have a second and third post, labeled *Robotathon Steering Committee - How It's Made*, posted today or tomorrow detailing how we decided to allocate the money, what needs to be done to host a competition, and logistic challenges that past competitions have faced.
 
 ---
 So status updates on where we're at, split into general categories:
