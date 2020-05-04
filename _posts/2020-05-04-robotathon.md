@@ -31,7 +31,13 @@ There were a lot of suggestions in our Robotathon 2019 Evaluation meeting this s
 Definitely something that I and many others in ECE have experienced. To help, we're releasing a dedicated Robotathon Guide that gives lots of insight and help on how to do various tasks that should make your experience smoother and easier. Additionally, we'll be updating our RASWare documentation to make examples easy to run, and function interface purposes clear and useful.
 
 ##### Checkpoints and Deadlines piled up too quickly
-We know that university, and especially freshman year, is a rough time for students as classes ramp up the work. To address this, we'll be relaxing deadlines and penalties for turning in checkpoints late. We have 10 checkpoints this year, corresponding to each stage in the development of your robots. We recognize that it seems a lot, but speed up your work in the long run to build the relevant infrastructure for your final project. Each task we expect to take from 1-4 hours in weekly commitment, increasing linearly with the challenge number, so the overall workload shouldn't be debilitating.
+We know that university, and especially freshman year, is a rough time for students as classes ramp up the work. To address this, we'll be relaxing deadlines and penalties for turning in checkpoints late. We have 10 checkpoints this year, corresponding to each stage in the development of your robots. 
+
+We recognize that it seems a lot, but we think that breaking down the project into chunks will shorten the total amount of work to build a competitive robot in the long run by putting together the relevant infrastructure. 
+
+Each task we expect to take from 2-5 hours in weekly commitment per person, increasing linearly with the challenge number, so the overall workload shouldn't be debilitating. This doesn't include attending tech talks or learning independently, which is dependent on your personal commitment to learning robotics.
+
+A good suggestion for keeping on the top of things is to set up meeting times with your group - ideally twice a week. Try to schedule one of the days during our Office Hours/Tech Talks/Checkpoints to get the most value out of the mentors.
 
 ##### Setting up the development environment was very rough
 To tackle this, we're going to be spending this summer updating our guides and processes for setting up your development environment. Our end goal is that the students, whether on Windows or Ubuntu/Linux (and MacOSX), should be able to install the packages they'll need with only a few clicks, and be able to get going in working in a matter of minutes.
