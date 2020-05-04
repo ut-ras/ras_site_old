@@ -1,5 +1,5 @@
 _site
 *.swp
 *.icloud
-
+.directory
 .jekyll-metadata
