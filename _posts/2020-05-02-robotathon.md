@@ -14,6 +14,7 @@ I thought it would be interesting to describe how RAS will organize the competit
 So status updates on where we're at, split into general categories:
 
 ## Robotathon Field
+
 We've made updates to the design, namely artistic and in implementation details. We were originally looking at wooden skewers to connect our field tiles(??) together, but our VP Reiko came up with a good idea to use magnets or velcro to attach the tiles. This will prevent poking holes in the tiles.
 
 Another part of the Robotathon field will be a centerpiece structure, the UT Tower of (William C.) Power(s). I can't disclose its specific function in relation to the field, but I can say that it'll perform functions like lighting up the tower when a goal is accomplished, or general score keeping. Electrical components have been figured out, and mechanical design is underway. We hope that the Tower of Power will be used a general showpiece, like our Marquee Signboard, after Robotathon, or maybe even put in the WCP on display.
