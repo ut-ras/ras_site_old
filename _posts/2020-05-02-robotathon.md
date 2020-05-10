@@ -8,12 +8,13 @@ Hey y'all, this is Matthew, co-head of Robotathon, here again. This is the secon
 
 Recently, we've gone through our semesterly meeting of hell and have secured funding for next semester's Robotathon.
 
-I thought it would be interesting to describe how RAS will organize the competition (and to document it somewhere, for personal reference), so I'll have a second post, labeled *Robotathon Steering Committee - How It's Made*, posted today or tomorrow detailing how we decided to allocate the money, what needs to be done to host a competition, and logistic challenges that past competitions have faced.
+I thought it would be interesting to describe how RAS will organize the competition (and to document it somewhere, for personal reference), so I'll have a second and third post, labeled *Robotathon Steering Committee - How It's Made*, posted today or tomorrow detailing how we decided to allocate the money, what needs to be done to host a competition, and logistic challenges that past competitions have faced.
 
 ---
 So status updates on where we're at, split into general categories:
 
 ## Robotathon Field
+
 We've made updates to the design, namely artistic and in implementation details. We were originally looking at wooden skewers to connect our field tiles(??) together, but our VP Reiko came up with a good idea to use magnets or velcro to attach the tiles. This will prevent poking holes in the tiles.
 
 Another part of the Robotathon field will be a centerpiece structure, the UT Tower of (William C.) Power(s). I can't disclose its specific function in relation to the field, but I can say that it'll perform functions like lighting up the tower when a goal is accomplished, or general score keeping. Electrical components have been figured out, and mechanical design is underway. We hope that the Tower of Power will be used a general showpiece, like our Marquee Signboard, after Robotathon, or maybe even put in the WCP on display.
