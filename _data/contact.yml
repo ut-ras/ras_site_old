@@ -1,10 +1,10 @@
 leaders:
   - title: President
-    name: Chad Harthan
+    name: Ian Krause
     email_name: ras_president
     email_obsfucator: (at)
     email_domain: utlists.utexas.edu
-    picture: Chad_Harthan.JPG
+    picture: Ian_Krause.JPG
 
   - title: Vice President
     name: Reiko Corteza
@@ -21,11 +21,11 @@ leaders:
     picture: Ben_Belov.JPG
 
   - title: Corporate Relations
-    name: Chad Harthan
+    name: Wendy Rodriguez Ovalle
     email_name: ras_corporate
     email_obsfucator: (at)
     email_domain: utlists.utexas.edu
-    picture: Chad_Harthan.JPG
+    picture: Wendy_Rodriguez.jpg
 
   # - title: Fundraising Coordinator
   #   name: Miguel Salinas
@@ -35,18 +35,18 @@ leaders:
   #   picture: miguel.JPG
 
   - title: Outreach Coordinator
-    name: Burak Biyikli
+    name: Rosanna Rincon
     email_name: ras_outreach
     email_obsfucator: (at)
     email_domain: utlists.utexas.edu
-    picture: blank.png
+    picture: Rosanna_Rincon.jpg
 
   - title: Secretary, Publicity Coordinator
-    name: Ian Krause
+    name: Caitlin Montgomery
     email_name: ras_secretary or ras_publicity
     email_obsfucator: (at)
     email_domain: utlists.utexas.edu
-    picture: Ian_Krause.JPG
+    picture: blank.png
 
   - title: Historian, Webmaster
     name: Rosanna Rincon
@@ -63,11 +63,11 @@ leaders:
   #   picture: Matthew_Yu.JPG
 
   - title: Special Events Coordinator
-    name: Tanitoluwa Adebowale
+    name: Wendy Rodriguez Ovalle
     email_name: ras_special_events
     email_obsfucator: (at)
     email_domain: utlists.utexas.edu
-    picture: Tanitoluwa_Adebowale.JPG
+    picture: Wendy_Rodriguez.jpg
 
   # - title: Publicity Coordinator
   #   name: Ian Krause
@@ -77,19 +77,24 @@ leaders:
   #   picture: Ian_Krause.JPG
 
   - title: Demobot Head
-    name: Zahin Nambiar
+    name: Caitlin Montgomery
     email_name: no_email
-    picture: Zahin_Nambiar.jpg
+    picture: blank.png
 
   - title: Micromouse Head
-    name: Joseph Ryan
+    name: Allen Jiang
     email_name: no_email
-    picture: Joseph_Ryan.jpg
+    picture: blank.png
 
-  - title: Region 5 Head
-    name: Ramsey Green
+  # - title: Region 5 Head
+  # name: Ramsey Green
+  # email_name: no_email
+  # picture: Ramsey_Green.JPG
+
+  - title: IGVC Head
+    name: Peter Mathews
     email_name: no_email
-    picture: Ramsey_Green.JPG
+    picture: blank.png
 
   - title: Robotathon Co-head
     name: Matthew Yu
@@ -101,20 +106,30 @@ leaders:
     email_name: no_email
     picture: blank.png
 
+  - title: Robomaster Head
+    name: Joshua Johnson
+    email_name: no_email
+    picture: Joshua_Johnson.jpg
+
   # - title: CURM Head
   #   name: Christopher Zum Mallen
   #   email_name: no_email
   #   picture: christopher.JPG
 
-  - title: Robosub Co-head
-    name: Joshua Johnson
-    email_name: no_email
-    picture: Joshua_Johnson.jpg
+  # - title: Robosub Co-head
+  # name: Joshua Johnson
+  # email_name: no_email
+  # picture: Joshua_Johnson.jpg
 
-  - title: Robosub Co-head
-    name: Rahul Butani
-    email_name: no_email
-    picture: Rahul_Butani.jpg
+  # - title: Robosub Co-head
+  # name: Rahul Butani
+  # email_name: no_email
+  # picture: Rahul_Butani.jpg
+
+  - title:
+    name:
+    email_name:
+    picture: empty.png
 
   - title:
     name:
