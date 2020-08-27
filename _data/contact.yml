@@ -84,7 +84,7 @@ leaders:
   - title: Micromouse Head
     name: Allen Jiang
     email_name: no_email
-    picture: blank.png
+    picture: Allen_Jiang.jpg
 
   # - title: Region 5 Head
   # name: Ramsey Green
@@ -106,10 +106,10 @@ leaders:
     email_name: no_email
     picture: blank.png
 
-  - title: Robomaster Head
-    name: Joshua Johnson
-    email_name: no_email
-    picture: Joshua_Johnson.jpg
+  - title:
+    name:
+    email_name:
+    picture: empty.png
 
   # - title: CURM Head
   #   name: Christopher Zum Mallen
