@@ -46,7 +46,7 @@ leaders:
     email_name: ras_secretary or ras_publicity
     email_obsfucator: (at)
     email_domain: utlists.utexas.edu
-    picture: blank.png
+    picture: Caitlin_Montgomery.jpg
 
   - title: Historian, Webmaster
     name: Rosanna Rincon
@@ -79,12 +79,12 @@ leaders:
   - title: Demobot Head
     name: Caitlin Montgomery
     email_name: no_email
-    picture: blank.png
+    picture: Caitlin_Montgomery.jpg
 
   - title: Micromouse Head
     name: Allen Jiang
     email_name: no_email
-    picture: blank.png
+    picture: Allen_Jiang.jpg
 
   # - title: Region 5 Head
   # name: Ramsey Green
@@ -94,7 +94,7 @@ leaders:
   - title: IGVC Head
     name: Peter Mathews
     email_name: no_email
-    picture: blank.png
+    picture: Peter_Mathews.PNG
 
   - title: Robotathon Co-head
     name: Matthew Yu
@@ -106,10 +106,10 @@ leaders:
     email_name: no_email
     picture: blank.png
 
-  - title: Robomaster Head
-    name: Joshua Johnson
-    email_name: no_email
-    picture: Joshua_Johnson.jpg
+  - title:
+    name:
+    email_name:
+    picture: empty.png
 
   # - title: CURM Head
   #   name: Christopher Zum Mallen
