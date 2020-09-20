@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Technical - Designing a Software Filter
+title: Technical Blog Post - Designing a Software Filter
 imagepath: resources/blog/2020-09-20-technical
-shorttitle: 2020 - Demobot
+shorttitle: 2020 - Technical
 ---
 
 ## Table of Contents
