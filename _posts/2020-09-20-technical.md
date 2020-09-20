@@ -385,10 +385,10 @@ There's one more section here as a postnote: SMA filtering is probably the lowes
 One you'll probably hear about is the Kalman filter; I've linked a couple of
 different tutorials on how to possibly implement this filter:
 
-- [Instructables | Stabilize Sensor Readings with Kalman Filter](https://www.instructables.com/id/Stabilize-Sensor-Readings-With-Kalman-Filter/)
-- [Medium | The Kalman Filter: An algorithm for making sense of fused sensor insight](https://towardsdatascience.com/kalman-filter-an-algorithm-for-making-sense-from-the-insights-of-various-sensors-fused-together-ddf67597f35e)
-- [intechopen | Introduction to Kalman Filter and Its Applications](https://www.intechopen.com/books/introduction-and-implementations-of-the-kalman-filter/introduction-to-kalman-filter-and-its-applications)
-- [Wikipedia | Kalman Filters](https://en.wikipedia.org/wiki/Kalman_filter)
+- [Instructables \| Stabilize Sensor Readings with Kalman Filter](https://www.instructables.com/id/Stabilize-Sensor-Readings-With-Kalman-Filter/)
+- [Medium \| The Kalman Filter: An algorithm for making sense of fused sensor insight](https://towardsdatascience.com/kalman-filter-an-algorithm-for-making-sense-from-the-insights-of-various-sensors-fused-together-ddf67597f35e)
+- [intechopen \| Introduction to Kalman Filter and Its Applications](https://www.intechopen.com/books/introduction-and-implementations-of-the-kalman-filter/introduction-to-kalman-filter-and-its-applications)
+- [Wikipedia \| Kalman Filters](https://en.wikipedia.org/wiki/Kalman_filter)
 
 ## Conclusion
 
