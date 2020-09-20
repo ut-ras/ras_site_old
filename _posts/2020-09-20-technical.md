@@ -91,7 +91,7 @@ class SMAFilter {
 
 #### Setup
 
-In our setup method, we're going initialize some variables, including setting
+In our setup method, we're going to initialize some variables, including setting
 the size of our buffer.
 
 ```c++
