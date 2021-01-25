@@ -3,3 +3,4 @@ _site
 *.icloud
 .directory
 .jekyll-metadata
+.jekyll-cache/
