@@ -4,28 +4,28 @@ leaders:
     email_name: ras_president
     email_obsfucator: (at)
     email_domain: utlists.utexas.edu
-    picture: Ian_Krause.JPG
+    picture: ianF21.jpg
 
   - title: Vice President
-    name: Reiko Corteza
+    name: Rosanna Rincon
     email_name: ras_vice_president
     email_obsfucator: (at)
     email_domain: utlists.utexas.edu
-    picture: Reiko_Corteza.JPG
+    picture: rosannaF21.jpg
 
   - title: Treasurer
-    name: Ben Belov
+    name: Jared MacArthur
     email_name: ras_treasury
     email_obsfucator: (at)
     email_domain: utlists.utexas.edu
-    picture: Ben_Belov.JPG
+    picture: jaredF21.jpg
 
   - title: Corporate Relations
     name: Wendy Rodriguez Ovalle
     email_name: ras_corporate
     email_obsfucator: (at)
     email_domain: utlists.utexas.edu
-    picture: Wendy_Rodriguez.jpg
+    picture: wendyF21.jpg
 
   # - title: Fundraising Coordinator
   #   name: Miguel Salinas
@@ -35,25 +35,25 @@ leaders:
   #   picture: miguel.JPG
 
   - title: Outreach Coordinator
-    name: Rosanna Rincon
+    name: Tarun Govindarajan
     email_name: ras_outreach
     email_obsfucator: (at)
     email_domain: utlists.utexas.edu
-    picture: Rosanna_Rincon.jpg
+    picture: tarunF21.jpg
 
   - title: Secretary, Publicity Coordinator
     name: Yuqi Pan
     email_name: ras_secretary or ras_publicity
     email_obsfucator: (at)
     email_domain: utlists.utexas.edu
-    picture: Yuqi_Pan.jpg
+    picture: yuqiF21.jpg
 
   - title: Historian, Webmaster
-    name: Aditya Nagpal
+    name: James Zhang
     email_name: ras_historian or ras_webmaster
     email_obsfucator: (at)
     email_domain: utlists.utexas.edu
-    picture: Aditya_Nagpal.jpg
+    picture: jamesF21.jpg
 
   # - title: Webmaster
   #   name: Matthew Yu
@@ -63,11 +63,11 @@ leaders:
   #   picture: Matthew_Yu.JPG
 
   - title: Special Events Coordinator
-    name: Wendy Rodriguez Ovalle
+    name: Reiko Corteza
     email_name: ras_special_events
     email_obsfucator: (at)
     email_domain: utlists.utexas.edu
-    picture: Wendy_Rodriguez.jpg
+    picture: reikoF21.jpg
 
   # - title: Publicity Coordinator
   #   name: Ian Krause
@@ -79,12 +79,12 @@ leaders:
   - title: Demobot Head
     name: Caitlin Montgomery
     email_name: no_email
-    picture: Caitlin_Montgomery.jpg
+    picture: caitlinF21.jpg
 
-  - title: Micromouse Head
-    name: Allen Jiang
-    email_name: no_email
-    picture: Allen_Jiang.jpg
+  # - title: Micromouse Head
+  #  name: Allen Jiang
+  #  email_name: no_email
+  #  picture: Allen_Jiang.jpg
 
   # - title: Region 5 Head
   # name: Ramsey Green
@@ -94,22 +94,22 @@ leaders:
   - title: IGVC Head
     name: Peter Mathews
     email_name: no_email
-    picture: Peter_Mathews.PNG
+    picture: peterF21.jpg
 
-  - title: Robotathon Co-head
+  - title: RAS Leader
     name: Matthew Yu
     email_name: no_email
     picture: Matthew_Yu.JPG
 
-  - title: Robotathon Co-head
-    name: Burak Biyikli
+  - title: RAS Leader
+    name: Dario Jimenez
     email_name: no_email
-    picture: blank.png
+    picture: darioF21.jpg
 
-  - title:
-    name:
-    email_name:
-    picture: empty.png
+  # - title:
+  #  name:
+  #  email_name:
+  #  picture: empty.png
 
   # - title: CURM Head
   #   name: Christopher Zum Mallen
@@ -126,12 +126,12 @@ leaders:
   # email_name: no_email
   # picture: Rahul_Butani.jpg
 
-  - title:
-    name:
-    email_name:
-    picture: empty.png
+  # - title:
+  #  name:
+  #  email_name:
+  #  picture: empty.png
 
-  - title:
-    name:
-    email_name:
-    picture: empty.png
+  # - title:
+  #  name:
+  #  email_name:
+  # picture: empty.png
