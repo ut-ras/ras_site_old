@@ -1,6 +1,9 @@
-DANCEBOTS 11/7/21
-
-
+---
+layout: post
+title: Dancebots Fall Update
+shorttitle: 2021 - Dancebots
+excerpt_separator: <!--more-->
+---
 
 With the fall semester now underway, Dancebots has made good progress in establishing in person work again! 
 
@@ -12,6 +15,5 @@ However, now that activities are considered safe enough to be in person again, w
 
 With in person activities now in full swing, Dancebots is so excited to be learning more every day! We invite anyone who is interested in our project reach out to RAS leadership to learn more or even drop by our meetings in EER 0.822 on Thursdays at 7 PM! 
 
- 
 
 Author: Ian Krause 
