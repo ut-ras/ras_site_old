@@ -97,15 +97,14 @@ leaders:
     picture: peterF21.jpg
 
   - title: RAS Leader
-    name: Matthew Yu
-    email_name: no_email
-    picture: Matthew_Yu.JPG
-
-  - title: RAS Leader
     name: Dario Jimenez
     email_name: no_email
     picture: darioF21.jpg
 
+  - title: RAS Leader
+    name: Matthew Yu
+    email_name: no_email
+    picture: Matthew_Yu.JPG
   # - title:
   #  name:
   #  email_name:
