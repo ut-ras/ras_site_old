@@ -5,7 +5,7 @@ shorttitle: 2021 - Dancebots
 excerpt_separator: <!--more-->
 ---
 
-With the fall semester now underway, Dancebots has made good progress in establishing in person work again! 
+With the fall semester now underway, Dancebots has made good progress in establishing in person work again! <!--more--> 
 
 For those who don’t know, Dancebot as a sub group of Demobots was first created in Spring of 2019 just as the Covid-19 pandemic began. The core membership of the team was originally planning to compete in the Region 5 competition, but realized that it would not be feasible due to new safety and travel restrictions being implemented. Consequently, it was decided that work within the committee would continue, but now build it as a non-competitive outreach robot for IEEE RAS to demo at events such as Explore UT and Girl Day. 
 
