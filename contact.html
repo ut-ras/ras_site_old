@@ -33,12 +33,12 @@ To keep up with current events and happenings, please join our group <a href="ht
 You might also sign up for our mailing list <a href="https://docs.google.com/forms/d/e/1FAIpQLSfZ_Lsk9UPmO0VgBB1RDFMPniz964v3-SvUuUsZSsvUvzBv7g/viewform?usp=sf_link">here</a> for occasional announcements - mostly meeting reminders, honestly.
 </p>
 
-<h2>Fall 2021 Officers</h2>
+<h2> <strong> Fall 2022 RAS Officers </strong> </h2>
 
-{% for leader in site.data.contact.leaders %}
-{% assign index = forloop.index0 | modulo: 4 %}
+{% for leader in site.data.people.officers %}
+{% assign index = forloop.index0 | modulo: 5 %}
 {% if index == 0 %}
-<div class="card-deck">
+    <div class="card-deck">
 {% endif %}
     <div class="card m-3">
         <img class="card-img-top" src="{{ site.baseurl }}/resources/contact/{{ leader.picture }}" alt="picture of {{ leader.name }}">
@@ -52,7 +52,7 @@ You might also sign up for our mailing list <a href="https://docs.google.com/for
                 if("{{ leader.email_name }}"=="no_email"){var element = document.getElementById('{{ leader.title }}');
                 element.parentNode.removeChild(element);}</script>
     </div></div>
-{% if index == 3 %}
-</div>
+{% if index == 4 %}
+    </div>
 {% endif %}
 {% endfor %}
