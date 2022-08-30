@@ -1,0 +1,147 @@
+officers:
+  - title: President
+    name: Wendy Rodriguez Ovalle
+    email_name: ras_president
+    email_obsfucator: (at)
+    email_domain: utlists.utexas.edu
+    picture: wendyF21.jpg
+
+  - title: Vice President
+    name: Yuqi Pan
+    email_name: ras_vice_president
+    email_obsfucator: (at)
+    email_domain: utlists.utexas.edu
+    picture: yuqiF21.jpg
+
+  - title: Treasurer
+    name: Faith Leake
+    email_name: ras_treasury
+    email_obsfucator: (at)
+    email_domain: utlists.utexas.edu
+    picture: blank.png
+
+  - title: Secretary
+    name: Eddie Liao
+    email_name: ras_secretary or ras_publicity
+    email_obsfucator: (at)
+    email_domain: utlists.utexas.edu
+    picture: blank.png
+
+  - title: Corporate Relations
+    name: Wenyu Zhu
+    email_name: ras_corporate
+    email_obsfucator: (at)
+    email_domain: utlists.utexas.edu
+    picture: blank.png
+
+  - title: Outreach Coordinator
+    name: Purva Kantawala
+    email_name: ras_outreach
+    email_obsfucator: (at)
+    email_domain: utlists.utexas.edu
+    picture: blank.png
+
+  - title: Fundraising Coordinator
+    name: Devan Romero
+    email_name: ras_fundraising
+    email_obsfucator: (at)
+    email_domain: utlists.utexas.edu
+    picture: blank.png
+
+  - title: Historian
+    name: Paul Han
+    email_name: ras_historian or ras_webmaster
+    email_obsfucator: (at)
+    email_domain: utlists.utexas.edu
+    picture: blank.png
+
+  - title: Special Events Coordinator
+    name: Reiko Corteza
+    email_name: ras_special_events
+    email_obsfucator: (at)
+    email_domain: utlists.utexas.edu
+    picture: reikoF21.jpg
+
+  - title: Webmaster
+    name: Dario Jimenez
+    email_name: ras_webmaster
+    email_obsfucator: (at)
+    email_domain: utlists.utexas.edu
+    picture: darioF21.jpg
+
+committeeHeads:
+  - title: Robotathon Steering Committee Head
+    name: Rosanna Rincon
+    email_name: no_email
+    picture: rosannaF21.jpg
+
+  - title: Demobots Head
+    name: Caitlin Montgomery
+    email_name: no_email
+    picture: caitlinF21.jpg
+
+  - title: IGVC Head
+    name: Peter Mathews
+    email_name: no_email
+    picture: peterF21.jpg
+
+  - title: Vex U Head
+    name: Ben Adelstein
+    email_name: no_email
+    picture: blank.png
+
+  - title: Robomasters Head
+    name: Yuqi Pan
+    email_name: no_email
+    picture: yuqiF21.jpg
+
+  - title: Corporate Committee Head
+    name: Wendy Rodriguez Ovalle
+    email_name: no_email
+    picture: wendyF21.jpg
+
+leaders:
+  - title: RAS Leader
+    name: Matthew Yu
+    email_name: no_email
+    picture: Matthew_Yu.JPG
+
+  - title: RAS Leader
+    name: Anthony Luu
+    email_name: no_email
+    picture: blank.png
+
+  - title: RAS Leader
+    name: Arshan Saniei-Sani
+    email_name: no_email
+    picture: blank.png
+
+  - title: RAS Leader
+    name: Hasif Shaikh
+    email_name: no_email
+    picture: blank.png
+
+  - title: RAS Leader
+    name: James Zhang
+    email_name: no_email
+    picture: jamesF21.jpg
+
+  - title: RAS Leader
+    name: Tarun Govindarajan
+    email_name: no_email
+    picture: tarunF21.jpg
+
+  - title: RAS Leader
+    name: Jared McArthur
+    email_name: no_email
+    picture: jaredF21.jpg
+
+  - title: RAS Leader
+    name: Kendrick Lemmond
+    email_name: no_email
+    picture: blank.png
+
+  - title: RAS Leader
+    name: Michael Minton
+    email_name: no_email
+    picture: blank.png
