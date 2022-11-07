@@ -4,86 +4,86 @@ officers:
     email_name: ras_president
     email_obsfucator: (at)
     email_domain: utlists.utexas.edu
-    picture: wendyF21.jpg
+    picture: F22Wendy.JPG
 
   - title: Vice President
     name: Yuqi Pan
     email_name: ras_vice_president
     email_obsfucator: (at)
     email_domain: utlists.utexas.edu
-    picture: yuqiF21.jpg
+    picture: F22Yuqi2.JPG
 
   - title: Treasurer
     name: Faith Leake
     email_name: ras_treasury
     email_obsfucator: (at)
     email_domain: utlists.utexas.edu
-    picture: blank.png
+    picture: F22Faith.JPG
 
   - title: Secretary
     name: Eddie Liao
     email_name: ras_secretary or ras_publicity
     email_obsfucator: (at)
     email_domain: utlists.utexas.edu
-    picture: blank.png
+    picture: F22Eddie.JPG
 
   - title: Corporate Relations
     name: Wenyu Zhu
     email_name: ras_corporate
     email_obsfucator: (at)
     email_domain: utlists.utexas.edu
-    picture: blank.png
+    picture: F22Wenyu.JPG
 
   - title: Outreach Coordinator
     name: Purva Kantawala
     email_name: p.kantawala0
     email_obsfucator: (at)
     email_domain: utexas.edu
-    picture: blank.png
+    picture: F22Purva.JPG
 
   - title: Fundraising Coordinator
     name: Devan Romero
     email_name: ras_fundraising
     email_obsfucator: (at)
     email_domain: utlists.utexas.edu
-    picture: blank.png
+    picture: F22Devan.JPG
 
   - title: Historian
     name: Paul Han
     email_name: ras_historian or ras_webmaster
     email_obsfucator: (at)
     email_domain: utlists.utexas.edu
-    picture: blank.png
+    picture: F22Paul.JPG
 
   - title: Special Events Coordinator
     name: Reiko Corteza
     email_name: ras_special_events
     email_obsfucator: (at)
     email_domain: utlists.utexas.edu
-    picture: reikoF21.jpg
+    picture: reikoF22.JPG
 
   - title: Webmaster
     name: Dario Jimenez
     email_name: ras_webmaster
     email_obsfucator: (at)
     email_domain: utlists.utexas.edu
-    picture: darioF21.jpg
+    picture: F22Dario.JPG
 
 committeeHeads:
   - title: Robotathon Steering Committee Head
     name: Rosanna Rincon
     email_name: no_email
-    picture: rosannaF21.jpg
+    picture: F22Rosanna.JPG
 
   - title: Demobots Head
     name: Caitlin Montgomery
     email_name: no_email
-    picture: caitlinF21.jpg
+    picture: F22Caitlin.JPG
 
   - title: IGVC Head
     name: Peter Mathews
     email_name: no_email
-    picture: peterF21.jpg
+    picture: F22Peter.JPG
 
   - title: Vex U Head
     name: Ben Adelstein
@@ -93,55 +93,45 @@ committeeHeads:
   - title: Robomasters Head
     name: Yuqi Pan
     email_name: no_email
-    picture: yuqiF21.jpg
+    picture: F22Yuqi.JPG
 
   - title: Corporate Committee Head
-    name: Wendy Rodriguez Ovalle
+    name: Wenyu Zhu
     email_name: no_email
-    picture: wendyF21.jpg
+    picture: F22Wenyu.JPG
 
 leaders:
   - title: RAS Leader
-    name: Matthew Yu
-    email_name: no_email
-    picture: Matthew_Yu.JPG
-
-  - title: RAS Leader
     name: Anthony Luu
     email_name: no_email
-    picture: blank.png
+    picture: F22Anthony.JPG
 
   - title: RAS Leader
     name: Arshan Saniei-Sani
     email_name: no_email
-    picture: blank.png
+    picture: F22Arshan.JPG
 
   - title: RAS Leader
     name: Hasif Shaikh
     email_name: no_email
-    picture: blank.png
+    picture: F22Hasif.JPG
 
   - title: RAS Leader
     name: James Zhang
     email_name: no_email
-    picture: jamesF21.jpg
+    picture: F22James.JPG
 
   - title: RAS Leader
     name: Tarun Govindarajan
     email_name: no_email
-    picture: tarunF21.jpg
-
-  - title: RAS Leader
-    name: Jared McArthur
-    email_name: no_email
-    picture: jaredF21.jpg
+    picture: F22Tarun.JPG
 
   - title: RAS Leader
     name: Kendrick Lemmond
     email_name: no_email
-    picture: blank.png
+    picture: F22Kendrick.JPG
 
-  - title: RAS Leader
-    name: Michael Minton
-    email_name: no_email
-    picture: blank.png
+  # - title: RAS Leader
+  #   name: Michael Minton
+  #   email_name: no_email
+  #   picture: blank.png
