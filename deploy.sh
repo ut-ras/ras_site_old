@@ -3,18 +3,31 @@
 # Will build and deploy the RAS site to ras.ece.utexas.edu,
 # assuming you have ssh permissions on the server.
 
+# if you want to setup ssh keys you won't have to enter your password more than once.
+
 echo "Building site with Jekyll..."
-# jekyll build
+jekyll build
 echo "Done."
 echo -n "Please enter UT EID: "
 read utweb_user
-echo "Uploading with rsync..."
+echo "Uploading with rsync to temp directory..."
 rsync -rlz \
       -p \
       --chmod=D775,F664 \
       --inplace \
       -e "ssh" \
-       ./_site/ $utweb_user@panel.utweb.utexas.edu:/home/utweb/utw10091/public_html 
+       ./_site/ $utweb_user@panel.utweb.utexas.edu:/home/utweb/utw10091/public_html/temp_dest 
+echo "Done."
+echo "Moving files to the destination directory..."
+ssh $utweb_user@panel.utweb.utexas.edu "
+rm -rf /home/utweb/utw10091/public_html/2024;
+rm -rf /home/utweb/utw10091/public_html/about;
+rm -rf /home/utweb/utw10091/public_html/resources;
+mv -f /home/utweb/utw10091/public_html/temp_dest/2024 /home/utweb/utw10091/public_html/;
+mv -f /home/utweb/utw10091/public_html/temp_dest/about /home/utweb/utw10091/public_html/;
+mv -f /home/utweb/utw10091/public_html/temp_dest/* /home/utweb/utw10091/public_html/;
+rm -rf /home/utweb/utw10091/public_html/temp_dest/;
+ " # this was very hacky way of removing the relevant years and overwriting them, if better alternative exists then fix this later
 echo "Done."
 
 # rsync options:

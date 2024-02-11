@@ -1,27 +1,27 @@
 officers:
   - title: President
-    name: Wendy Rodriguez Ovalle
+    name: Eddie Lao
     email_name: ras_president
     email_obsfucator: (at)
     email_domain: utlists.utexas.edu
     picture: F22Wendy.JPG
 
   - title: Vice President
-    name: Yuqi Pan
+    name: Anthony Luu
     email_name: ras_vice_president
     email_obsfucator: (at)
     email_domain: utlists.utexas.edu
     picture: F22Yuqi2.JPG
 
   - title: Treasurer
-    name: Faith Leake
+    name: Raghav Katta
     email_name: ras_treasury
     email_obsfucator: (at)
     email_domain: utlists.utexas.edu
     picture: F22Faith.JPG
 
   - title: Secretary
-    name: Eddie Liao
+    name: Jiwoo Park
     email_name: ras_secretary or ras_publicity
     email_obsfucator: (at)
     email_domain: utlists.utexas.edu
@@ -42,51 +42,51 @@ officers:
     picture: F22Purva.JPG
 
   - title: Fundraising Coordinator
-    name: Devan Romero
+    name: Lakshay Gupta
     email_name: ras_fundraising
     email_obsfucator: (at)
     email_domain: utlists.utexas.edu
     picture: F22Devan.JPG
 
-  - title: Historian
-    name: Paul Han
+  - title: Webmaster
+    name: Dhruv Nistala
     email_name: ras_historian or ras_webmaster
     email_obsfucator: (at)
     email_domain: utlists.utexas.edu
     picture: F22Paul.JPG
 
   - title: Special Events Coordinator
-    name: Reiko Corteza
+    name: Will Reger
     email_name: ras_special_events
     email_obsfucator: (at)
     email_domain: utlists.utexas.edu
     picture: reikoF22.JPG
 
-  - title: Webmaster
-    name: Dario Jimenez
-    email_name: ras_webmaster
+  - title: Historian
+    name: 
+    email_name: ras_historian
     email_obsfucator: (at)
     email_domain: utlists.utexas.edu
     picture: F22Dario.JPG
 
 committeeHeads:
-  - title: Robotathon Steering Committee Head
-    name: Rosanna Rincon
-    email_name: no_email
-    picture: F22Rosanna.JPG
+  # - title: Robotathon Steering Committee Head
+  #   name: Rosanna Rincon
+  #   email_name: no_email
+  #   picture: F22Rosanna.JPG
 
   - title: Demobots Head
-    name: Caitlin Montgomery
+    name: Jake Tomczesyn
     email_name: no_email
     picture: F22Caitlin.JPG
 
   - title: IGVC Head
-    name: Peter Mathews
+    name: Noah Aguilon
     email_name: no_email
     picture: F22Peter.JPG
 
   - title: Vex U Head
-    name: Ben Adelstein
+    name: Maxx Wilson
     email_name: no_email
     picture: blank.png
 
@@ -95,61 +95,41 @@ committeeHeads:
     email_name: no_email
     picture: F22Yuqi.JPG
 
-  - title: Corporate Committee Head
-    name: Wenyu Zhu
-    email_name: no_email
-    picture: F22Wenyu.JPG
+  # - title: Corporate Committee Head
+  #   name: 
+  #   email_name: no_email
+  #   picture: F22Wenyu.JPG
 
 leaders:
   - title: RAS Leader
-    name: Anthony Luu
+    name: Alana Woodwell-Williams
     email_name: no_email
     picture: F22Anthony.JPG
 
   - title: RAS Leader
-    name: Arshan Saniei-Sani
+    name: Annie Vu
     email_name: no_email
     picture: F22Arshan.JPG
 
   - title: RAS Leader
-    name: Hasif Shaikh
+    name: Arnav Surjan
     email_name: no_email
     picture: F22Hasif.JPG
 
   - title: RAS Leader
-    name: James Zhang
+    name: Arshan Saniei-Sani
     email_name: no_email
     picture: F22James.JPG
 
   - title: RAS Leader
-    name: Tarun Govindarajan
+    name: Audrey Labbe
     email_name: no_email
     picture: F22Tarun.JPG
 
   - title: RAS Leader
-    name: Kendrick Lemmond
+    name: Caleb Chalmers
     email_name: no_email
     picture: F22Kendrick.JPG
-
-  - title: RAS Leader
-    name: Jiwoo Park
-    email_name: no_email
-    picture: blank.png
-
-  - title: RAS Leader
-    name: Shreeya Garapaty
-    email_name: no_email
-    picture: blank.png
-
-  - title: RAS Leader
-    name: Nathan Diaz
-    email_name: no_email
-    picture: blank.png
-
-  - title: RAS Leader
-    name: Tanay Garg
-    email_name: no_email
-    picture: blank.png
 
   - title: RAS Leader
     name: Carolyn Hoang
@@ -157,7 +137,22 @@ leaders:
     picture: blank.png
 
   - title: RAS Leader
-    name: Sai Senepathi
+    name: Hasif Shaikh
+    email_name: no_email
+    picture: blank.png
+
+  - title: RAS Leader
+    name: James Zhang
+    email_name: no_email
+    picture: blank.png
+
+  - title: RAS Leader
+    name: Linh Tran
+    email_name: no_email
+    picture: blank.png
+
+  - title: RAS Leader
+    name: Olyvia Witham
     email_name: no_email
     picture: blank.png
 
@@ -167,11 +162,36 @@ leaders:
     picture: blank.png
 
   - title: RAS Leader
-    name: Matthew Yu
+    name: Roberto Avila
     email_name: no_email
     picture: blank.png
 
   - title: RAS Leader
-    name: Sophia Jiang
+    name: Sai Senepathi
+    email_name: no_email
+    picture: blank.png
+
+  - title: RAS Leader
+    name: Shreeya Garapaty
+    email_name: no_email
+    picture: blank.png
+
+  - title: RAS Leader
+    name: Toby Nguyen
+    email_name: no_email
+    picture: blank.png
+
+  - title: RAS Leader
+    name: Tyler Hom
+    email_name: no_email
+    picture: blank.png
+
+  - title: RAS Leader
+    name: Wendy Rodriguez Ovalle
+    email_name: no_email
+    picture: blank.png
+  
+  - title: RAS Leader
+    name: Zaara Bilal
     email_name: no_email
     picture: blank.png
