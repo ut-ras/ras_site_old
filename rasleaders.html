@@ -13,7 +13,7 @@ title: Contact
 
 <div class="section"> <!-- Added class to create space -->
 {% for leader in site.data.people.officers %}
-{% assign index = forloop.index0 | modulo: 3 %}
+{% assign index = forloop.index0 | modulo: 5 %}
 {% if index == 0 %}
     <div class="card-deck">
 {% endif %}
@@ -39,7 +39,7 @@ title: Contact
 
 <div class="section"> <!-- Added class to create space -->
 {% for leader in site.data.people.leaders %}
-{% assign index = forloop.index0 | modulo: 4 %}
+{% assign index = forloop.index0 | modulo: 5 %}
 {% if index == 0 %}
     <div class="card-deck">
 {% endif %}
@@ -55,7 +55,7 @@ title: Contact
                 if("{{ leader.email_name }}"=="no_email"){var element = document.getElementById('{{ leader.title }}');
                 element.parentNode.removeChild(element);}</script>
     </div></div>
-{% if index == 3 %}
+{% if index == 4 %}
     </div>
 {% endif %}
 {% endfor %}

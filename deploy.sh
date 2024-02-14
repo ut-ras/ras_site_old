@@ -8,18 +8,20 @@
 echo "Building site with Jekyll..."
 jekyll build
 echo "Done."
-echo -n "Please enter UT EID: "
-read utweb_user
+# echo -n "Please enter UT EID: "
+# read utweb_user # UNCOMMENT IF YOU WANT TO USE ANOTHER UT EID
 echo "Uploading with rsync to temp directory..."
 rsync -rlz \
       -p \
       --chmod=D775,F664 \
       --inplace \
       -e "ssh" \
-       ./_site/ $utweb_user@panel.utweb.utexas.edu:/home/utweb/utw10091/public_html/temp_dest 
+      ./_site/ dvn344@panel.utweb.utexas.edu:/home/utweb/utw10091/public_html/temp_dest # SWAP WITH BELOW LINE IF DIFF USER
+      #  ./_site/ $utweb_user@panel.utweb.utexas.edu:/home/utweb/utw10091/public_html/temp_dest 
 echo "Done."
 echo "Moving files to the destination directory..."
-ssh $utweb_user@panel.utweb.utexas.edu "
+# ssh $utweb_user@panel.utweb.utexas.edu " # SWAP WITH BELOW LINE IF DIFF USER
+ssh dvn344@panel.utweb.utexas.edu "
 rm -rf /home/utweb/utw10091/public_html/2024;
 rm -rf /home/utweb/utw10091/public_html/about;
 rm -rf /home/utweb/utw10091/public_html/resources;

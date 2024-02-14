@@ -4,28 +4,28 @@ officers:
     email_name: ras_president
     email_obsfucator: (at)
     email_domain: utlists.utexas.edu
-    picture: F22Wendy.JPG
+    picture: F22Eddie.JPG
 
   - title: Vice President
     name: Anthony Luu
     email_name: ras_vice_president
     email_obsfucator: (at)
     email_domain: utlists.utexas.edu
-    picture: F22Yuqi2.JPG
+    picture: F22Anthony.JPG
 
   - title: Treasurer
     name: Raghav Katta
     email_name: ras_treasury
     email_obsfucator: (at)
     email_domain: utlists.utexas.edu
-    picture: F22Faith.JPG
+    picture: RAS_Longhorn_Logo.jpg
 
   - title: Secretary
     name: Jiwoo Park
     email_name: ras_secretary or ras_publicity
     email_obsfucator: (at)
     email_domain: utlists.utexas.edu
-    picture: F22Eddie.JPG
+    picture: JiwooS23.jpg
 
   - title: Corporate Relations
     name: Wenyu Zhu
@@ -46,28 +46,28 @@ officers:
     email_name: ras_fundraising
     email_obsfucator: (at)
     email_domain: utlists.utexas.edu
-    picture: F22Devan.JPG
+    picture: LakshayS23.jpg
 
   - title: Webmaster
     name: Dhruv Nistala
     email_name: ras_historian or ras_webmaster
     email_obsfucator: (at)
     email_domain: utlists.utexas.edu
-    picture: F22Paul.JPG
+    picture: RAS_Longhorn_Logo.jpg
 
   - title: Special Events Coordinator
     name: Will Reger
     email_name: ras_special_events
     email_obsfucator: (at)
     email_domain: utlists.utexas.edu
-    picture: reikoF22.JPG
+    picture: WillS23.jpg
 
   - title: Historian
     name: 
     email_name: ras_historian
     email_obsfucator: (at)
     email_domain: utlists.utexas.edu
-    picture: F22Dario.JPG
+    picture: RAS_Longhorn_Logo.jpg
 
 committeeHeads:
   # - title: Robotathon Steering Committee Head
@@ -78,12 +78,12 @@ committeeHeads:
   - title: Demobots Head
     name: Jake Tomczesyn
     email_name: no_email
-    picture: F22Caitlin.JPG
+    picture: RAS_Longhorn_Logo.jpg
 
   - title: IGVC Head
     name: Noah Aguilon
     email_name: no_email
-    picture: F22Peter.JPG
+    picture: RAS_Longhorn_Logo.jpg
 
   - title: Vex U Head
     name: Maxx Wilson
@@ -104,22 +104,22 @@ leaders:
   - title: RAS Leader
     name: Alana Woodwell-Williams
     email_name: no_email
-    picture: F22Anthony.JPG
+    picture: RAS_Longhorn_Logo.jpg
 
   - title: RAS Leader
     name: Annie Vu
     email_name: no_email
-    picture: F22Arshan.JPG
+    picture: RAS_Longhorn_Logo.jpg
 
   - title: RAS Leader
     name: Arnav Surjan
     email_name: no_email
-    picture: F22Hasif.JPG
+    picture: RAS_Longhorn_Logo.jpg
 
   - title: RAS Leader
     name: Arshan Saniei-Sani
     email_name: no_email
-    picture: F22James.JPG
+    picture: F22Arshan.JPG
 
   - title: RAS Leader
     name: Audrey Labbe
@@ -129,69 +129,69 @@ leaders:
   - title: RAS Leader
     name: Caleb Chalmers
     email_name: no_email
-    picture: F22Kendrick.JPG
+    picture: RAS_Longhorn_Logo.jpg
 
   - title: RAS Leader
     name: Carolyn Hoang
     email_name: no_email
-    picture: blank.png
+    picture: CarolynS23.jpg
 
   - title: RAS Leader
     name: Hasif Shaikh
     email_name: no_email
-    picture: blank.png
+    picture: F22Hasif.JPG
 
   - title: RAS Leader
     name: James Zhang
     email_name: no_email
-    picture: blank.png
+    picture: F22James.JPG
 
   - title: RAS Leader
     name: Linh Tran
     email_name: no_email
-    picture: blank.png
+    picture: RAS_Longhorn_Logo.jpg
 
   - title: RAS Leader
     name: Olyvia Witham
     email_name: no_email
-    picture: blank.png
+    picture: RAS_Longhorn_Logo.jpg
 
   - title: RAS Leader
     name: Richard Bai
     email_name: no_email
-    picture: blank.png
+    picture: RAS_Longhorn_Logo.jpg
 
   - title: RAS Leader
     name: Roberto Avila
     email_name: no_email
-    picture: blank.png
+    picture: RAS_Longhorn_Logo.jpg
 
   - title: RAS Leader
     name: Sai Senepathi
     email_name: no_email
-    picture: blank.png
+    picture: RAS_Longhorn_Logo.jpg
 
   - title: RAS Leader
     name: Shreeya Garapaty
     email_name: no_email
-    picture: blank.png
+    picture: ShreeyaS23.jpg
 
   - title: RAS Leader
     name: Toby Nguyen
     email_name: no_email
-    picture: blank.png
+    picture: RAS_Longhorn_Logo.jpg
 
   - title: RAS Leader
     name: Tyler Hom
     email_name: no_email
-    picture: blank.png
+    picture: RAS_Longhorn_Logo.jpg
 
   - title: RAS Leader
     name: Wendy Rodriguez Ovalle
     email_name: no_email
-    picture: blank.png
+    picture: F22Wendy.JPG
   
   - title: RAS Leader
     name: Zaara Bilal
     email_name: no_email
-    picture: blank.png
+    picture: RAS_Longhorn_Logo.jpg
