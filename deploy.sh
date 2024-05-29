@@ -11,7 +11,9 @@ echo "Done."
 # echo -n "Please enter UT EID: "
 # read utweb_user # UNCOMMENT IF YOU WANT TO USE ANOTHER UT EID
 echo "Uploading with rsync to temp directory..."
-rsync -rlz \
+rsync --progress \
+      -u \
+      -rlz \
       -p \
       --chmod=D775,F664 \
       --inplace \
@@ -27,9 +29,9 @@ rm -rf /home/utweb/utw10091/public_html/about;
 rm -rf /home/utweb/utw10091/public_html/resources;
 mv -f /home/utweb/utw10091/public_html/temp_dest/2024 /home/utweb/utw10091/public_html/;
 mv -f /home/utweb/utw10091/public_html/temp_dest/about /home/utweb/utw10091/public_html/;
-mv -f /home/utweb/utw10091/public_html/temp_dest/* /home/utweb/utw10091/public_html/;
-rm -rf /home/utweb/utw10091/public_html/temp_dest/;
- " # this was very hacky way of removing the relevant years and overwriting them, if better alternative exists then fix this later
+mv -f /home/utweb/utw10091/public_html/temp_dest/* /home/utweb/utw10091/public_html/;"
+# rm -rf /home/utweb/utw10091/public_html/temp_dest/;
+# this was very hacky way of removing the relevant years and overwriting them, if better alternative exists then fix this later
 echo "Done."
 
 # rsync options:
