@@ -1,37 +1,37 @@
 officers:
   - title: President
     name: Shreeya Garapaty
-    email_name: ras_president
+    email_name: shreeya.garapaty
     email_obsfucator: (at)
-    email_domain: utlists.utexas.edu
+    email_domain: utexas.edu
     picture: ShreeyaS23.jpg
 
   - title: Vice President
     name: Carolyn Hoang
-    email_name: ras_vice_president
+    email_name: carolyn.hoang
     email_obsfucator: (at)
-    email_domain: utlists.utexas.edu
+    email_domain: utexas.edu
     picture: CarolynS23.jpg
 
   - title: Treasurer
     name: Raghav Katta
-    email_name: ras_treasury
+    email_name: raghav.katta
     email_obsfucator: (at)
-    email_domain: utlists.utexas.edu
+    email_domain: utexas.edu
     picture: Raghav_Sp24.jpg
 
   - title: Secretary
     name: Zaara Bilal
-    email_name: ras_secretary
+    email_name: zbilal
     email_obsfucator: (at)
-    email_domain: utlists.utexas.edu
+    email_domain: utexas.edu
     picture: RAS_Longhorn_Logo.jpg
 
   - title: Corporate Relations
     name: Grace Li
-    email_name: ras_corporate
+    email_name: gracewl
     email_obsfucator: (at)
-    email_domain: utlists.utexas.edu
+    email_domain: utexas.edu
     picture: RAS_Longhorn_Logo.jpg
 
   - title: Outreach Coordinator
@@ -43,30 +43,30 @@ officers:
 
   - title: Fundraising Coordinator
     name: Toby Nguyen
-    email_name: ras_fundraising
+    email_name: tan942
     email_obsfucator: (at)
-    email_domain: utlists.utexas.edu
+    email_domain: utexas.edu
     picture: RAS_Longhorn_Logo.jpg
 
   - title: Webmaster
     name: Dhruv Nistala
-    email_name: ras_webmaster
+    email_name: dhruv.nistala
     email_obsfucator: (at)
-    email_domain: utlists.utexas.edu
+    email_domain: utexas.edu
     picture: Dhruv_Sp2024.jpg
 
   - title: Special Events Coordinators
     name: Annie Vu and Linh Tran
-    email_name: ras_special_events
+    email_name: lt25546
     email_obsfucator: (at)
-    email_domain: utlists.utexas.edu
+    email_domain: utexas.edu
     picture: RAS_Longhorn_Logo.jpg
 
   - title: Publicity Coordinator
     name: Richard Bai
-    email_name: ras_historian
+    email_name: richard.bai.1
     email_obsfucator: (at)
-    email_domain: utlists.utexas.edu
+    email_domain: utexas.edu
     picture: RAS_Longhorn_Logo.jpg
 
 committeeHeads:
